@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 29955 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 29759   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.63) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 29977 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 29759   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.45) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 30044 ==> [Specialised construction activities=t]: 29759   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.19) 
+ 4. [Specialised construction activities=t]: 30277 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 29977   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.74) 
+ 5. [Specialised construction activities=t]: 30277 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 29955   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.68) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t]: 30369 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 30044   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.61) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t]: 30387 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 30044   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.58) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t]: 30387 ==> [Specialised construction activities=t]: 29977   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.54) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t]: 30369 ==> [Specialised construction activities=t]: 29955   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.53) 
+10. [Specialised construction activities=t]: 30277 ==> [Retail trade, except of motor vehicles and motorcycles=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 29759   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.66) 
+

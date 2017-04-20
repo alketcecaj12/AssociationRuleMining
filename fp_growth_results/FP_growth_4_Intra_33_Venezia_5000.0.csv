@@ -1,0 +1,13 @@
+FPGrowth found 106 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of wearing apparel=t]: 6328 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6327   <conf:(1)> lift:(1) lev:(0) conv:(11.52) 
+ 2. [Manufacture of food products=t, Manufacture of machinery and equipment n.e.c.=t, Manufacture of wearing apparel=t]: 6291 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6290   <conf:(1)> lift:(1) lev:(0) conv:(11.46) 
+ 3. [Manufacture of food products=t, Manufacture of machinery and equipment n.e.c.=t]: 6425 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6423   <conf:(1)> lift:(1) lev:(0) conv:(7.8) 
+ 4. [Manufacture of food products=t, Manufacture of machinery and equipment n.e.c.=t, Manufacture of other non-metallic mineral products=t]: 6312 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6310   <conf:(1)> lift:(1) lev:(0) conv:(7.66) 
+ 5. [Manufacture of wearing apparel=t, Manufacture of other non-metallic mineral products=t]: 6275 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6271   <conf:(1)> lift:(1) lev:(0) conv:(4.57) 
+ 6. [Manufacture of wearing apparel=t]: 6435 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6430   <conf:(1)> lift:(1) lev:(0) conv:(3.91) 
+ 7. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 6390 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6385   <conf:(1)> lift:(1) lev:(0) conv:(3.88) 
+ 8. [Manufacture of machinery and equipment n.e.c.=t]: 6467 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6460   <conf:(1)> lift:(1) lev:(0) conv:(2.94) 
+ 9. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of other non-metallic mineral products=t]: 6341 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6334   <conf:(1)> lift:(1) lev:(0) conv:(2.89) 
+10. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 6386 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6377   <conf:(1)> lift:(1) lev:(0) conv:(2.33) 
+

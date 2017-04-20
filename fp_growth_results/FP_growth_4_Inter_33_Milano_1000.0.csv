@@ -1,0 +1,13 @@
+FPGrowth found 14 rules (displaying top 10)
+
+ 1. [Food and beverage service activities=t]: 22424 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 22309   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.8) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 22535 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 22419   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.79) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t]: 23325 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23147   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.88) 
+ 4. [Specialised construction activities=t]: 23290 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23110   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.86) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 23110 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 22419   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.57) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 23147 ==> [Specialised construction activities=t]: 22419   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.53) 
+ 7. [Specialised construction activities=t]: 23290 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 22535   <conf:(0.97)> lift:(1.02) lev:(0.01) conv:(1.45) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t]: 23325 ==> [Specialised construction activities=t]: 22535   <conf:(0.97)> lift:(1.02) lev:(0.01) conv:(1.43) 
+ 9. [Specialised construction activities=t]: 23290 ==> [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 22419   <conf:(0.96)> lift:(1.02) lev:(0.02) conv:(1.45) 
+10. [Retail trade, except of motor vehicles and motorcycles=t]: 23325 ==> [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 22419   <conf:(0.96)> lift:(1.02) lev:(0.02) conv:(1.43) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 108 rules (displaying top 10)
+
+ 1. [Manufacture of wearing apparel=t]: 2917 ==> [Manufacture of food products=t]: 2917   <conf:(1)> lift:(1) lev:(0) conv:(6.71) 
+ 2. [Repair and installation of machinery and equipment=t]: 2753 ==> [Manufacture of food products=t]: 2753   <conf:(1)> lift:(1) lev:(0) conv:(6.33) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 2858 ==> [Manufacture of food products=t]: 2858   <conf:(1)> lift:(1) lev:(0) conv:(6.58) 
+ 4. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of furniture=t]: 2747 ==> [Manufacture of food products=t]: 2747   <conf:(1)> lift:(1) lev:(0) conv:(6.32) 
+ 5. [Manufacture of wearing apparel=t, Manufacture of other non-metallic mineral products=t]: 2781 ==> [Manufacture of food products=t]: 2781   <conf:(1)> lift:(1) lev:(0) conv:(6.4) 
+ 6. [Manufacture of wearing apparel=t, Manufacture of machinery and equipment n.e.c.=t]: 2773 ==> [Manufacture of food products=t]: 2773   <conf:(1)> lift:(1) lev:(0) conv:(6.38) 
+ 7. [Manufacture of other non-metallic mineral products=t, Manufacture of machinery and equipment n.e.c.=t]: 2804 ==> [Manufacture of food products=t]: 2804   <conf:(1)> lift:(1) lev:(0) conv:(6.45) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t, Manufacture of machinery and equipment n.e.c.=t]: 2756 ==> [Manufacture of food products=t]: 2756   <conf:(1)> lift:(1) lev:(0) conv:(6.34) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of other non-metallic mineral products=t, Manufacture of machinery and equipment n.e.c.=t]: 2788 ==> [Manufacture of food products=t]: 2788   <conf:(1)> lift:(1) lev:(0) conv:(6.42) 
+10. [Manufacture of other non-metallic mineral products=t]: 2896 ==> [Manufacture of food products=t]: 2895   <conf:(1)> lift:(1) lev:(0) conv:(3.33) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 1055 ==> [Manufacture of other non-metallic mineral products=t]: 1042   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(3.42) 
+ 2. [Manufacture of other non-metallic mineral products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 1057 ==> [Manufacture of food products=t]: 1042   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(2.94) 
+ 3. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 1063 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1042   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(2.74) 
+ 4. [Manufacture of fabricated metal products, except machinery and equipment=t]: 1081 ==> [Manufacture of other non-metallic mineral products=t]: 1057   <conf:(0.98)> lift:(1.02) lev:(0.02) conv:(1.96) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 1081 ==> [Manufacture of food products=t]: 1055   <conf:(0.98)> lift:(1.02) lev:(0.02) conv:(1.78) 
+ 6. [Manufacture of other non-metallic mineral products=t]: 1094 ==> [Manufacture of food products=t]: 1063   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.52) 
+ 7. [Manufacture of food products=t]: 1095 ==> [Manufacture of other non-metallic mineral products=t]: 1063   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.51) 
+ 8. [Manufacture of other non-metallic mineral products=t]: 1094 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1057   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.63) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t]: 1081 ==> [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 1042   <conf:(0.96)> lift:(1.04) lev:(0.03) conv:(1.96) 
+10. [Manufacture of food products=t]: 1095 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1055   <conf:(0.96)> lift:(1.02) lev:(0.02) conv:(1.51) 
+

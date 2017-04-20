@@ -1,0 +1,13 @@
+FPGrowth found 6632 rules (displaying top 10)
+
+ 1. [Manufacture of wearing apparel=t]: 9656 ==> [Manufacture of food products=t]: 9656   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9600 ==> [Manufacture of food products=t]: 9600   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 3. [Manufacture of wood and of products of wood and cork, except furniture=t]: 9581 ==> [Manufacture of food products=t]: 9581   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 4. [Manufacture of other non-metallic mineral products=t]: 9554 ==> [Manufacture of food products=t]: 9554   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 5. [Manufacture of textiles=t]: 9518 ==> [Manufacture of food products=t]: 9518   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 6. [Repair and installation of machinery and equipment=t]: 9372 ==> [Manufacture of food products=t]: 9372   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 7. [Other manufacturing=t]: 9352 ==> [Manufacture of food products=t]: 9352   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 8. [Manufacture of leather and related products=t]: 9324 ==> [Manufacture of food products=t]: 9324   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 9. [Manufacture of machinery and equipment n.e.c.=t]: 9304 ==> [Manufacture of food products=t]: 9304   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+10. [Printing and reproduction of recorded media=t]: 9281 ==> [Manufacture of food products=t]: 9281   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+

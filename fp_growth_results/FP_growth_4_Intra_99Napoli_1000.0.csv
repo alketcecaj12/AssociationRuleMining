@@ -1,0 +1,13 @@
+FPGrowth found 56 rules (displaying top 10)
+
+ 1. [Food and beverage service activities=t, Construction of buildings=t]: 52290 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52216   <conf:(1)> lift:(1) lev:(0) conv:(4.44) 
+ 2. [Food and beverage service activities=t, Specialised construction activities=t]: 52336 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52238   <conf:(1)> lift:(1) lev:(0) conv:(3.37) 
+ 3. [Construction of buildings=t, Specialised construction activities=t]: 52353 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52248   <conf:(1)> lift:(1) lev:(0) conv:(3.15) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 53153 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 53040   <conf:(1)> lift:(1) lev:(0) conv:(2.97) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 53086 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52973   <conf:(1)> lift:(1) lev:(0) conv:(2.97) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 53002 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52864   <conf:(1)> lift:(1) lev:(0) conv:(2.43) 
+ 7. [Food and beverage service activities=t]: 53477 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 53328   <conf:(1)> lift:(1) lev:(0) conv:(2.27) 
+ 8. [Construction of buildings=t]: 53378 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 53213   <conf:(1)> lift:(1) lev:(0) conv:(2.05) 
+ 9. [Specialised construction activities=t]: 53331 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 53145   <conf:(1)> lift:(1) lev:(0) conv:(1.82) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t]: 54415 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 54190   <conf:(1)> lift:(1) lev:(0) conv:(1.53) 
+

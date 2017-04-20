@@ -1,0 +1,13 @@
+FPGrowth found 19 rules (displaying top 10)
+
+ 1. [Manufacture of wood and of products of wood and cork, except furniture=t]: 1808 ==> [Manufacture of food products=t]: 1710   <conf:(0.95)> lift:(1.08) lev:(0.04) conv:(2.29) 
+ 2. [Repair and installation of machinery and equipment=t]: 1867 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1752   <conf:(0.94)> lift:(1.09) lev:(0.05) conv:(2.3) 
+ 3. [Manufacture of wearing apparel=t, Manufacture of furniture=t]: 1822 ==> [Manufacture of food products=t]: 1709   <conf:(0.94)> lift:(1.07) lev:(0.04) conv:(2.01) 
+ 4. [Manufacture of wearing apparel=t, Manufacture of furniture=t]: 1822 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1698   <conf:(0.93)> lift:(1.09) lev:(0.04) conv:(2.08) 
+ 5. [Manufacture of wood and of products of wood and cork, except furniture=t]: 1808 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1684   <conf:(0.93)> lift:(1.09) lev:(0.04) conv:(2.07) 
+ 6. [Manufacture of other non-metallic mineral products=t]: 1879 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1750   <conf:(0.93)> lift:(1.09) lev:(0.05) conv:(2.07) 
+ 7. [Manufacture of food products=t, Manufacture of machinery and equipment n.e.c.=t]: 1833 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1707   <conf:(0.93)> lift:(1.09) lev:(0.04) conv:(2.06) 
+ 8. [Manufacture of food products=t, Manufacture of furniture=t]: 1914 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 1780   <conf:(0.93)> lift:(1.09) lev:(0.05) conv:(2.03) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 2204 ==> [Manufacture of food products=t]: 2047   <conf:(0.93)> lift:(1.06) lev:(0.04) conv:(1.75) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of furniture=t]: 1933 ==> [Manufacture of food products=t]: 1780   <conf:(0.92)> lift:(1.05) lev:(0.03) conv:(1.58) 
+

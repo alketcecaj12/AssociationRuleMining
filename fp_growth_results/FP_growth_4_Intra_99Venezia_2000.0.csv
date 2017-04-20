@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 24095 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 24018   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.99) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 23970 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23881   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.58) 
+ 3. [Specialised construction activities=t]: 24282 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 24170   <conf:(1)> lift:(1.01) lev:(0) conv:(2.08) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 24003 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 23881   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.56) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t]: 24595 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 24455   <conf:(0.99)> lift:(1) lev:(0) conv:(1.69) 
+ 6. [Food and beverage service activities=t]: 24142 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 24003   <conf:(0.99)> lift:(1) lev:(0) conv:(1.67) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 24170 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 24018   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.07) 
+ 8. [Food and beverage service activities=t]: 24142 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 23970   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.83) 
+ 9. [Specialised construction activities=t]: 24282 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 24095   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.69) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t]: 24681 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 24455   <conf:(0.99)> lift:(1) lev:(0) conv:(1.43) 
+

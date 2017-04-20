@@ -1,0 +1,13 @@
+FPGrowth found 21 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 3734 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3662   <conf:(0.98)> lift:(1.07) lev:(0.04) conv:(4.07) 
+ 2. [Specialised construction activities=t, Food and beverage service activities=t]: 3674 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3602   <conf:(0.98)> lift:(1.07) lev:(0.04) conv:(4) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t]: 3828 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3741   <conf:(0.98)> lift:(1.06) lev:(0.04) conv:(3.46) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 3983 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3870   <conf:(0.97)> lift:(1.06) lev:(0.04) conv:(2.78) 
+ 5. [Food and beverage service activities=t]: 3975 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3854   <conf:(0.97)> lift:(1.05) lev:(0.04) conv:(2.59) 
+ 6. [Construction of buildings=t]: 3671 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3556   <conf:(0.97)> lift:(1.05) lev:(0.04) conv:(2.52) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t]: 4382 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 4216   <conf:(0.96)> lift:(1.05) lev:(0.04) conv:(2.09) 
+ 8. [Specialised construction activities=t]: 4307 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 4130   <conf:(0.96)> lift:(1.04) lev:(0.03) conv:(1.92) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 3854 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3662   <conf:(0.95)> lift:(1.09) lev:(0.06) conv:(2.62) 
+10. [Food and beverage service activities=t]: 3975 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3734   <conf:(0.94)> lift:(1.08) lev:(0.06) conv:(2.16) 
+

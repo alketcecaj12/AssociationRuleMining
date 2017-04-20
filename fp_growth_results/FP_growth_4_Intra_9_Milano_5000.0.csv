@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Other mining and quarrying=t]: 1435 ==> [Crop and animal production, hunting and related service activities=t]: 1435   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 2. [Forestry and logging=t]: 1166 ==> [Crop and animal production, hunting and related service activities=t]: 1166   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 3. [Extraction of crude petroleum and natural gas=t]: 643 ==> [Crop and animal production, hunting and related service activities=t]: 643   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 4. [Fishing and aquaculture=t]: 594 ==> [Crop and animal production, hunting and related service activities=t]: 594   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 5. [Other mining and quarrying=t, Forestry and logging=t]: 906 ==> [Crop and animal production, hunting and related service activities=t]: 906   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 6. [Other mining and quarrying=t, Extraction of crude petroleum and natural gas=t]: 600 ==> [Crop and animal production, hunting and related service activities=t]: 600   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 7. [Other mining and quarrying=t, Fishing and aquaculture=t]: 559 ==> [Crop and animal production, hunting and related service activities=t]: 559   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 8. [Forestry and logging=t, Fishing and aquaculture=t]: 541 ==> [Crop and animal production, hunting and related service activities=t]: 541   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 9. [Other mining and quarrying=t, Forestry and logging=t, Fishing and aquaculture=t]: 522 ==> [Crop and animal production, hunting and related service activities=t]: 522   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+10. [Forestry and logging=t, Fishing and aquaculture=t]: 541 ==> [Other mining and quarrying=t]: 522   <conf:(0.96)> lift:(1.39) lev:(0.07) conv:(8.23) 
+

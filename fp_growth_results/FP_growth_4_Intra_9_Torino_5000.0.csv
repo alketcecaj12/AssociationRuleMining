@@ -1,0 +1,6 @@
+FPGrowth found 3 rules (displaying top 3)
+
+1. [Forestry and logging=t]: 1793 ==> [Crop and animal production, hunting and related service activities=t]: 1793   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+2. [Other mining and quarrying=t]: 853 ==> [Crop and animal production, hunting and related service activities=t]: 853   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+3. [Forestry and logging=t, Other mining and quarrying=t]: 518 ==> [Crop and animal production, hunting and related service activities=t]: 518   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+

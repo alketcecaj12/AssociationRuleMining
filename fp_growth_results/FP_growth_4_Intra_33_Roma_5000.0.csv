@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 7411 ==> [Manufacture of food products=t]: 7405   <conf:(1)> lift:(1.01) lev:(0.01) conv:(10.52) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of other non-metallic mineral products=t]: 7463 ==> [Manufacture of food products=t]: 7449   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.95) 
+ 3. [Manufacture of wearing apparel=t]: 7496 ==> [Manufacture of food products=t]: 7474   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.24) 
+ 4. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 7481 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7449   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.1) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 7606 ==> [Manufacture of food products=t]: 7573   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.22) 
+ 6. [Manufacture of other non-metallic mineral products=t]: 7528 ==> [Manufacture of food products=t]: 7481   <conf:(0.99)> lift:(1) lev:(0) conv:(1.56) 
+ 7. [Manufacture of other non-metallic mineral products=t]: 7528 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7463   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.06) 
+ 8. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 7474 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7405   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.93) 
+ 9. [Manufacture of other non-metallic mineral products=t]: 7528 ==> [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 7449   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.1) 
+10. [Manufacture of wearing apparel=t]: 7496 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7411   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.58) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Specialised construction activities=t, Financial service activities, except insurance and pension funding=t]: 1696 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 1613   <conf:(0.95)> lift:(1.23) lev:(0.1) conv:(4.61) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 1723 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1632   <conf:(0.95)> lift:(1.29) lev:(0.12) conv:(5.02) 
+ 3. [Specialised construction activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 1729 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 1636   <conf:(0.95)> lift:(1.23) lev:(0.1) conv:(4.2) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 1720 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1623   <conf:(0.94)> lift:(1.29) lev:(0.12) conv:(4.71) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 1731 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 1632   <conf:(0.94)> lift:(1.22) lev:(0.09) conv:(3.95) 
+ 6. [Specialised construction activities=t, Financial service activities, except insurance and pension funding=t]: 1696 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1596   <conf:(0.94)> lift:(1.29) lev:(0.11) conv:(4.51) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 1723 ==> [Specialised construction activities=t]: 1613   <conf:(0.94)> lift:(1.25) lev:(0.1) conv:(3.94) 
+ 8. [Specialised construction activities=t, Food and beverage service activities=t]: 1710 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 1598   <conf:(0.93)> lift:(1.21) lev:(0.09) conv:(3.46) 
+ 9. [Specialised construction activities=t, Food and beverage service activities=t]: 1710 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1593   <conf:(0.93)> lift:(1.27) lev:(0.11) conv:(3.89) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 1720 ==> [Specialised construction activities=t]: 1598   <conf:(0.93)> lift:(1.24) lev:(0.1) conv:(3.55) 
+

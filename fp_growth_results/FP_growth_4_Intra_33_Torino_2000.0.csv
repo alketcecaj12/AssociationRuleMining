@@ -1,0 +1,13 @@
+FPGrowth found 19 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 6107 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6094   <conf:(1)> lift:(1.03) lev:(0.02) conv:(13.43) 
+ 2. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of motor vehicles, trailers and semi-trailers=t]: 6205 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6185   <conf:(1)> lift:(1.03) lev:(0.02) conv:(9.1) 
+ 3. [Manufacture of machinery and equipment n.e.c.=t, Repair and installation of machinery and equipment=t]: 6113 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6091   <conf:(1)> lift:(1.03) lev:(0.02) conv:(8.18) 
+ 4. [Manufacture of motor vehicles, trailers and semi-trailers=t]: 6394 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6359   <conf:(0.99)> lift:(1.03) lev:(0.02) conv:(5.47) 
+ 5. [Repair and installation of machinery and equipment=t]: 6298 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6239   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(3.23) 
+ 6. [Manufacture of rubber and plastic products=t]: 6378 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6314   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(3.02) 
+ 7. [Manufacture of machinery and equipment n.e.c.=t]: 6955 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6877   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(2.71) 
+ 8. [Manufacture of food products=t]: 6453 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6335   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.67) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t, Repair and installation of machinery and equipment=t]: 6239 ==> [Manufacture of machinery and equipment n.e.c.=t]: 6091   <conf:(0.98)> lift:(1.07) lev:(0.05) conv:(3.56) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of motor vehicles, trailers and semi-trailers=t]: 6359 ==> [Manufacture of machinery and equipment n.e.c.=t]: 6185   <conf:(0.97)> lift:(1.06) lev:(0.05) conv:(3.09) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 32 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 5138 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 5018   <conf:(0.98)> lift:(1.06) lev:(0.05) conv:(3.48) 
+ 2. [Specialised construction activities=t, Construction of buildings=t]: 5026 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 4903   <conf:(0.98)> lift:(1.06) lev:(0.05) conv:(3.33) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 5030 ==> [Specialised construction activities=t]: 4903   <conf:(0.97)> lift:(1.1) lev:(0.07) conv:(4.52) 
+ 4. [Food and beverage service activities=t]: 5036 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 4898   <conf:(0.97)> lift:(1.06) lev:(0.05) conv:(2.97) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 5030 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 4887   <conf:(0.97)> lift:(1.08) lev:(0.06) conv:(3.58) 
+ 6. [Specialised construction activities=t, Construction of buildings=t]: 5026 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 4873   <conf:(0.97)> lift:(1.08) lev:(0.06) conv:(3.35) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 5041 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 4887   <conf:(0.97)> lift:(1.06) lev:(0.04) conv:(2.67) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 5190 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5018   <conf:(0.97)> lift:(1.08) lev:(0.06) conv:(3.08) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 5041 ==> [Specialised construction activities=t]: 4873   <conf:(0.97)> lift:(1.09) lev:(0.07) conv:(3.43) 
+10. [Specialised construction activities=t]: 5381 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 5190   <conf:(0.96)> lift:(1.05) lev:(0.04) conv:(2.3) 
+

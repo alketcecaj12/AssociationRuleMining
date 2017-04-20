@@ -1,0 +1,13 @@
+FPGrowth found 16 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 20987 ==> [Crop and animal production, hunting and related service activities=t]: 20884   <conf:(1)> lift:(1.01) lev:(0) conv:(2.16) 
+ 2. [Manufacture of wearing apparel=t]: 21913 ==> [Crop and animal production, hunting and related service activities=t]: 21798   <conf:(0.99)> lift:(1.01) lev:(0) conv:(2.02) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of food products=t]: 20128 ==> [Crop and animal production, hunting and related service activities=t]: 19999   <conf:(0.99)> lift:(1) lev:(0) conv:(1.66) 
+ 4. [Manufacture of machinery and equipment n.e.c.=t]: 20515 ==> [Crop and animal production, hunting and related service activities=t]: 20382   <conf:(0.99)> lift:(1) lev:(0) conv:(1.64) 
+ 5. [Manufacture of food products=t]: 21407 ==> [Crop and animal production, hunting and related service activities=t]: 21257   <conf:(0.99)> lift:(1) lev:(0) conv:(1.52) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t]: 22735 ==> [Crop and animal production, hunting and related service activities=t]: 22557   <conf:(0.99)> lift:(1) lev:(0) conv:(1.36) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 21798 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 20884   <conf:(0.96)> lift:(1.05) lev:(0.04) conv:(2.09) 
+ 8. [Manufacture of wearing apparel=t]: 21913 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 20987   <conf:(0.96)> lift:(1.05) lev:(0.04) conv:(2.07) 
+ 9. [Manufacture of wearing apparel=t]: 21913 ==> [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 20884   <conf:(0.95)> lift:(1.05) lev:(0.04) conv:(2.02) 
+10. [Crop and animal production, hunting and related service activities=t, Manufacture of food products=t]: 21257 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 19999   <conf:(0.94)> lift:(1.03) lev:(0.02) conv:(1.48) 
+

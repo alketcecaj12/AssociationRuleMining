@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 6419 ==> [Manufacture of food products=t]: 6329   <conf:(0.99)> lift:(1.05) lev:(0.04) conv:(4.32) 
+ 2. [Printing and reproduction of recorded media=t]: 6371 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6248   <conf:(0.98)> lift:(1.06) lev:(0.04) conv:(3.64) 
+ 3. [Manufacture of wearing apparel=t]: 6674 ==> [Manufacture of food products=t]: 6544   <conf:(0.98)> lift:(1.04) lev:(0.04) conv:(3.12) 
+ 4. [Manufacture of food products=t, Repair and installation of machinery and equipment=t]: 6336 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6210   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.54) 
+ 5. [Manufacture of computer, electronic and optical products=t]: 6391 ==> [Manufacture of food products=t]: 6257   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(2.9) 
+ 6. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 6398 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6253   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.11) 
+ 7. [Repair and installation of machinery and equipment=t]: 6549 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6385   <conf:(0.97)> lift:(1.05) lev:(0.04) conv:(2.81) 
+ 8. [Manufacture of computer, electronic and optical products=t]: 6391 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6227   <conf:(0.97)> lift:(1.05) lev:(0.04) conv:(2.75) 
+ 9. [Printing and reproduction of recorded media=t]: 6371 ==> [Manufacture of food products=t]: 6201   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.28) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Repair and installation of machinery and equipment=t]: 6385 ==> [Manufacture of food products=t]: 6210   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.22) 
+

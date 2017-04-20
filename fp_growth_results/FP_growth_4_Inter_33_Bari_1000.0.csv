@@ -1,0 +1,13 @@
+FPGrowth found 98 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2684 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2683   <conf:(1)> lift:(1.03) lev:(0.02) conv:(33.97) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2594 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2593   <conf:(1)> lift:(1.03) lev:(0.02) conv:(32.83) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 2693 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2691   <conf:(1)> lift:(1.03) lev:(0.02) conv:(22.72) 
+ 4. [Specialised construction activities=t, Construction of buildings=t]: 2618 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2616   <conf:(1)> lift:(1.03) lev:(0.02) conv:(22.09) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Construction of buildings=t]: 2608 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2606   <conf:(1)> lift:(1.03) lev:(0.02) conv:(22) 
+ 6. [Construction of buildings=t]: 2706 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2702   <conf:(1)> lift:(1.02) lev:(0.02) conv:(13.7) 
+ 7. [Specialised construction activities=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2606 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2602   <conf:(1)> lift:(1.02) lev:(0.02) conv:(13.19) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 2719 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2713   <conf:(1)> lift:(1.02) lev:(0.02) conv:(9.83) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Land transport and transport via pipelines=t]: 2618 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2612   <conf:(1)> lift:(1.02) lev:(0.02) conv:(9.47) 
+10. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2711 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2702   <conf:(1)> lift:(1.02) lev:(0.02) conv:(6.86) 
+

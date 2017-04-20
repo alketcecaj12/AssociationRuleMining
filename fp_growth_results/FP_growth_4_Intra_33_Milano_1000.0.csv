@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of electrical equipment=t]: 19869 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 19628   <conf:(0.99)> lift:(1.03) lev:(0.02) conv:(3.15) 
+ 2. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 20140 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 19853   <conf:(0.99)> lift:(1.03) lev:(0.02) conv:(2.68) 
+ 3. [Manufacture of electrical equipment=t]: 20510 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 20174   <conf:(0.98)> lift:(1.02) lev:(0.02) conv:(2.33) 
+ 4. [Manufacture of rubber and plastic products=t]: 20819 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 20412   <conf:(0.98)> lift:(1.02) lev:(0.02) conv:(1.96) 
+ 5. [Manufacture of machinery and equipment n.e.c.=t]: 23025 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 22470   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.59) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of electrical equipment=t]: 20174 ==> [Manufacture of machinery and equipment n.e.c.=t]: 19628   <conf:(0.97)> lift:(1.03) lev:(0.03) conv:(2.18) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of rubber and plastic products=t]: 20412 ==> [Manufacture of machinery and equipment n.e.c.=t]: 19853   <conf:(0.97)> lift:(1.03) lev:(0.03) conv:(2.16) 
+ 8. [Manufacture of electrical equipment=t]: 20510 ==> [Manufacture of machinery and equipment n.e.c.=t]: 19869   <conf:(0.97)> lift:(1.03) lev:(0.02) conv:(1.89) 
+ 9. [Manufacture of rubber and plastic products=t]: 20819 ==> [Manufacture of machinery and equipment n.e.c.=t]: 20140   <conf:(0.97)> lift:(1.03) lev:(0.02) conv:(1.81) 
+10. [Manufacture of electrical equipment=t]: 20510 ==> [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 19628   <conf:(0.96)> lift:(1.04) lev:(0.03) conv:(1.9) 
+

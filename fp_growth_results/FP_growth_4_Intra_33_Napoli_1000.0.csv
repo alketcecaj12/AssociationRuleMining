@@ -1,0 +1,13 @@
+FPGrowth found 15 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of leather and related products=t]: 6982 ==> [Manufacture of food products=t]: 6777   <conf:(0.97)> lift:(1.05) lev:(0.03) conv:(2.43) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 7939 ==> [Manufacture of food products=t]: 7678   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.18) 
+ 3. [Manufacture of food products=t, Manufacture of leather and related products=t]: 7031 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6777   <conf:(0.96)> lift:(1.06) lev:(0.04) conv:(2.56) 
+ 4. [Manufacture of leather and related products=t]: 7297 ==> [Manufacture of food products=t]: 7031   <conf:(0.96)> lift:(1.04) lev:(0.03) conv:(1.96) 
+ 5. [Manufacture of leather and related products=t]: 7297 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 6982   <conf:(0.96)> lift:(1.05) lev:(0.04) conv:(2.15) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t]: 8765 ==> [Manufacture of food products=t]: 8339   <conf:(0.95)> lift:(1.03) lev:(0.02) conv:(1.47) 
+ 7. [Manufacture of wearing apparel=t]: 8563 ==> [Manufacture of food products=t]: 8135   <conf:(0.95)> lift:(1.02) lev:(0.02) conv:(1.43) 
+ 8. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 8135 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7678   <conf:(0.94)> lift:(1.04) lev:(0.03) conv:(1.65) 
+ 9. [Manufacture of leather and related products=t]: 7297 ==> [Manufacture of wearing apparel=t]: 6857   <conf:(0.94)> lift:(1.06) lev:(0.04) conv:(1.89) 
+10. [Manufacture of food products=t]: 8970 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 8339   <conf:(0.93)> lift:(1.03) lev:(0.02) conv:(1.32) 
+

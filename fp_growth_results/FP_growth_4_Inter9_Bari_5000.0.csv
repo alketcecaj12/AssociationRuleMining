@@ -1,0 +1,35 @@
+
+Apriori
+=======
+
+Minimum support: 0.95 (6640 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 1
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 10
+
+Size of set of large itemsets L(2): 27
+
+Size of set of large itemsets L(3): 37
+
+Size of set of large itemsets L(4): 29
+
+Size of set of large itemsets L(5): 12
+
+Size of set of large itemsets L(6): 2
+
+Best rules found:
+
+ 1. Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 6834 ==> Retail trade, except of motor vehicles and motorcycles=t 6834    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.27)
+ 2. Specialised construction activities=t Food and beverage service activities=t 6815 ==> Retail trade, except of motor vehicles and motorcycles=t 6815    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.18)
+ 3. Manufacture of food products=t Food and beverage service activities=t 6812 ==> Retail trade, except of motor vehicles and motorcycles=t 6812    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.16)
+ 4. Specialised construction activities=t Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 6810 ==> Retail trade, except of motor vehicles and motorcycles=t 6810    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.15)
+ 5. Manufacture of food products=t Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 6807 ==> Retail trade, except of motor vehicles and motorcycles=t 6807    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.14)
+ 6. Manufacture of food products=t Specialised construction activities=t Food and beverage service activities=t 6805 ==> Retail trade, except of motor vehicles and motorcycles=t 6805    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.13)
+ 7. Manufacture of food products=t Specialised construction activities=t Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 6803 ==> Retail trade, except of motor vehicles and motorcycles=t 6803    <conf:(1)> lift:(1) lev:(0) [32] conv:(32.12)
+ 8. Financial service activities, except insurance and pension funding=t 6746 ==> Wholesale trade, except of motor vehicles and motorcycles=t 6746    <conf:(1)> lift:(1.01) lev:(0.01) [41] conv:(41.5)
+ 9. Financial service activities, except insurance and pension funding=t 6746 ==> Retail trade, except of motor vehicles and motorcycles=t 6746    <conf:(1)> lift:(1) lev:(0) [31] conv:(31.85)
+10. Retail trade, except of motor vehicles and motorcycles=t Financial service activities, except insurance and pension funding=t 6746 ==> Wholesale trade, except of motor vehicles and motorcycles=t 6746    <conf:(1)> lift:(1.01) lev:(0.01) [41] conv:(41.5)
+

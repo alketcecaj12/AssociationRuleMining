@@ -1,0 +1,13 @@
+FPGrowth found 27 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 79575 ==> [Crop and animal production, hunting and related service activities=t]: 79473   <conf:(1)> lift:(1) lev:(0) conv:(3) 
+ 2. [Manufacture of food products=t, Repair and installation of machinery and equipment=t]: 75619 ==> [Crop and animal production, hunting and related service activities=t]: 75521   <conf:(1)> lift:(1) lev:(0) conv:(2.97) 
+ 3. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 76541 ==> [Crop and animal production, hunting and related service activities=t]: 76439   <conf:(1)> lift:(1) lev:(0) conv:(2.89) 
+ 4. [Manufacture of food products=t]: 83838 ==> [Crop and animal production, hunting and related service activities=t]: 83685   <conf:(1)> lift:(1) lev:(0) conv:(2.11) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 81985 ==> [Crop and animal production, hunting and related service activities=t]: 81821   <conf:(1)> lift:(1) lev:(0) conv:(1.93) 
+ 6. [Repair and installation of machinery and equipment=t]: 77186 ==> [Crop and animal production, hunting and related service activities=t]: 77008   <conf:(1)> lift:(1) lev:(0) conv:(1.67) 
+ 7. [Manufacture of wearing apparel=t]: 77888 ==> [Crop and animal production, hunting and related service activities=t]: 77704   <conf:(1)> lift:(1) lev:(0) conv:(1.64) 
+ 8. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 77704 ==> [Manufacture of food products=t]: 76439   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(3.45) 
+ 9. [Manufacture of wearing apparel=t]: 77888 ==> [Manufacture of food products=t]: 76541   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(3.25) 
+10. [Manufacture of wearing apparel=t]: 77888 ==> [Crop and animal production, hunting and related service activities=t, Manufacture of food products=t]: 76439   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(3.11) 
+

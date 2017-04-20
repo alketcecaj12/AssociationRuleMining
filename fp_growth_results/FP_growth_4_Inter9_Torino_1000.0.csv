@@ -1,0 +1,13 @@
+FPGrowth found 28 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Land transport and transport via pipelines=t]: 851 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 811   <conf:(0.95)> lift:(1.83) lev:(0.12) conv:(9.96) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Food and beverage service activities=t]: 858 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 812   <conf:(0.95)> lift:(1.82) lev:(0.12) conv:(8.76) 
+ 3. [Financial service activities, except insurance and pension funding=t, Food and beverage service activities=t]: 848 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 797   <conf:(0.94)> lift:(1.81) lev:(0.11) conv:(7.82) 
+ 4. [Specialised construction activities=t, Land transport and transport via pipelines=t]: 899 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 840   <conf:(0.93)> lift:(1.8) lev:(0.12) conv:(7.19) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Financial service activities, except insurance and pension funding=t]: 953 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 890   <conf:(0.93)> lift:(1.79) lev:(0.13) conv:(7.14) 
+ 6. [Specialised construction activities=t, Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 955 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 890   <conf:(0.93)> lift:(1.72) lev:(0.12) conv:(6.63) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Land transport and transport via pipelines=t]: 851 ==> [Specialised construction activities=t]: 791   <conf:(0.93)> lift:(1.74) lev:(0.11) conv:(6.48) 
+ 8. [Wholesale trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 1078 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 998   <conf:(0.93)> lift:(1.78) lev:(0.14) conv:(6.38) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t, Financial service activities, except insurance and pension funding=t]: 872 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 807   <conf:(0.93)> lift:(1.78) lev:(0.11) conv:(6.34) 
+10. [Specialised construction activities=t, Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 879 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 812   <conf:(0.92)> lift:(1.71) lev:(0.11) conv:(5.92) 
+

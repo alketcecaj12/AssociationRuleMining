@@ -1,0 +1,13 @@
+FPGrowth found 11 rules (displaying top 10)
+
+ 1. [Manufacture of wearing apparel=t, Manufacture of machinery and equipment n.e.c.=t]: 4922 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 4814   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.36) 
+ 2. [Manufacture of wearing apparel=t, Manufacture of food products=t]: 4792 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 4686   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.34) 
+ 3. [Manufacture of electrical equipment=t]: 5023 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 4881   <conf:(0.97)> lift:(1.03) lev:(0.02) conv:(1.83) 
+ 4. [Manufacture of food products=t]: 5202 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 5035   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.62) 
+ 5. [Manufacture of machinery and equipment n.e.c.=t]: 5508 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 5331   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.62) 
+ 6. [Manufacture of wearing apparel=t]: 5800 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 5610   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.59) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of food products=t]: 5035 ==> [Manufacture of wearing apparel=t]: 4686   <conf:(0.93)> lift:(1.06) lev:(0.04) conv:(1.72) 
+ 8. [Manufacture of electrical equipment=t]: 5023 ==> [Manufacture of wearing apparel=t]: 4653   <conf:(0.93)> lift:(1.05) lev:(0.04) conv:(1.62) 
+ 9. [Manufacture of food products=t]: 5202 ==> [Manufacture of wearing apparel=t]: 4792   <conf:(0.92)> lift:(1.05) lev:(0.03) conv:(1.52) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 5331 ==> [Manufacture of wearing apparel=t]: 4814   <conf:(0.9)> lift:(1.03) lev:(0.02) conv:(1.23) 
+

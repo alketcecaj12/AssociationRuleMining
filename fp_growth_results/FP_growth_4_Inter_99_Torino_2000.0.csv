@@ -1,0 +1,13 @@
+FPGrowth found 10 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t]: 28338 ==> [Crop and animal production, hunting and related service activities=t]: 28165   <conf:(0.99)> lift:(1) lev:(0) conv:(1.33) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t]: 29651 ==> [Crop and animal production, hunting and related service activities=t]: 29455   <conf:(0.99)> lift:(1) lev:(0) conv:(1.23) 
+ 3. [Manufacture of machinery and equipment n.e.c.=t]: 28278 ==> [Crop and animal production, hunting and related service activities=t]: 28070   <conf:(0.99)> lift:(1) lev:(0) conv:(1.1) 
+ 4. [Manufacture of machinery and equipment n.e.c.=t]: 28278 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 27949   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(3.52) 
+ 5. [Manufacture of food products=t]: 28338 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 27866   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.46) 
+ 6. [Crop and animal production, hunting and related service activities=t]: 30670 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 29455   <conf:(0.96)> lift:(1) lev:(0) conv:(1.04) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t]: 29651 ==> [Manufacture of machinery and equipment n.e.c.=t]: 27949   <conf:(0.94)> lift:(1.03) lev:(0.03) conv:(1.49) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 29651 ==> [Manufacture of food products=t]: 27866   <conf:(0.94)> lift:(1.03) lev:(0.02) conv:(1.39) 
+ 9. [Crop and animal production, hunting and related service activities=t]: 30670 ==> [Manufacture of food products=t]: 28165   <conf:(0.92)> lift:(1) lev:(0) conv:(1.02) 
+10. [Crop and animal production, hunting and related service activities=t]: 30670 ==> [Manufacture of machinery and equipment n.e.c.=t]: 28070   <conf:(0.92)> lift:(1) lev:(0) conv:(1.01) 
+

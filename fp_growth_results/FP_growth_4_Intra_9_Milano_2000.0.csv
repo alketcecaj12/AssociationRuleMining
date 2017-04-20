@@ -1,0 +1,13 @@
+FPGrowth found 28 rules (displaying top 10)
+
+ 1. [Fishing and aquaculture=t]: 313 ==> [Crop and animal production, hunting and related service activities=t]: 313   <conf:(1)> lift:(1) lev:(0) conv:(0.91) 
+ 2. [Other mining and quarrying=t, Forestry and logging=t]: 416 ==> [Crop and animal production, hunting and related service activities=t]: 416   <conf:(1)> lift:(1) lev:(0) conv:(1.21) 
+ 3. [Other mining and quarrying=t, Extraction of crude petroleum and natural gas=t]: 310 ==> [Crop and animal production, hunting and related service activities=t]: 310   <conf:(1)> lift:(1) lev:(0) conv:(0.9) 
+ 4. [Other mining and quarrying=t, Fishing and aquaculture=t]: 286 ==> [Crop and animal production, hunting and related service activities=t]: 286   <conf:(1)> lift:(1) lev:(0) conv:(0.83) 
+ 5. [Forestry and logging=t, Extraction of crude petroleum and natural gas=t]: 241 ==> [Crop and animal production, hunting and related service activities=t]: 241   <conf:(1)> lift:(1) lev:(0) conv:(0.7) 
+ 6. [Forestry and logging=t, Fishing and aquaculture=t]: 244 ==> [Crop and animal production, hunting and related service activities=t]: 244   <conf:(1)> lift:(1) lev:(0) conv:(0.71) 
+ 7. [Extraction of crude petroleum and natural gas=t, Fishing and aquaculture=t]: 230 ==> [Crop and animal production, hunting and related service activities=t]: 230   <conf:(1)> lift:(1) lev:(0) conv:(0.67) 
+ 8. [Other mining and quarrying=t, Forestry and logging=t, Extraction of crude petroleum and natural gas=t]: 239 ==> [Crop and animal production, hunting and related service activities=t]: 239   <conf:(1)> lift:(1) lev:(0) conv:(0.7) 
+ 9. [Other mining and quarrying=t, Forestry and logging=t, Fishing and aquaculture=t]: 240 ==> [Crop and animal production, hunting and related service activities=t]: 240   <conf:(1)> lift:(1) lev:(0) conv:(0.7) 
+10. [Other mining and quarrying=t, Extraction of crude petroleum and natural gas=t, Fishing and aquaculture=t]: 228 ==> [Crop and animal production, hunting and related service activities=t]: 228   <conf:(1)> lift:(1) lev:(0) conv:(0.66) 
+

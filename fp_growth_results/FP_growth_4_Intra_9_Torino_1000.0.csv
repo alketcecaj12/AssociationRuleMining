@@ -1,0 +1,4 @@
+FPGrowth found 1 rules (displaying top 1)
+
+1. [Forestry and logging=t]: 355 ==> [Crop and animal production, hunting and related service activities=t]: 347   <conf:(0.98)> lift:(0.98) lev:(0) conv:(0.21) 
+

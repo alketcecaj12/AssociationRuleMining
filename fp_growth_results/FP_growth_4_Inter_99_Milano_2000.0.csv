@@ -1,0 +1,13 @@
+FPGrowth found 110 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of rubber and plastic products=t]: 91754 ==> [Manufacture of machinery and equipment n.e.c.=t]: 91587   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.58) 
+ 2. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of chemicals and chemical products=t]: 91457 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 91240   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.83) 
+ 3. [Crop and animal production, hunting and related service activities=t, Manufacture of rubber and plastic products=t]: 91321 ==> [Manufacture of machinery and equipment n.e.c.=t]: 91060   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.2) 
+ 4. [Manufacture of rubber and plastic products=t]: 92138 ==> [Manufacture of machinery and equipment n.e.c.=t]: 91872   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.16) 
+ 5. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of electrical equipment=t]: 91898 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 91628   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.1) 
+ 6. [Crop and animal production, hunting and related service activities=t, Manufacture of machinery and equipment n.e.c.=t, Manufacture of electrical equipment=t]: 91170 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 90902   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.1) 
+ 7. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 91872 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 91587   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.93) 
+ 8. [Crop and animal production, hunting and related service activities=t, Manufacture of electrical equipment=t]: 91492 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 91207   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.92) 
+ 9. [Manufacture of electrical equipment=t]: 92229 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 91934   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.85) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of electrical equipment=t]: 91934 ==> [Manufacture of machinery and equipment n.e.c.=t]: 91628   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.61) 
+

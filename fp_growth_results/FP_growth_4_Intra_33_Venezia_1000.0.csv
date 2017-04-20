@@ -1,0 +1,13 @@
+FPGrowth found 21 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 2668 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2597   <conf:(0.97)> lift:(1.19) lev:(0.06) conv:(6.65) 
+ 2. [Manufacture of electrical equipment=t, Manufacture of rubber and plastic products=t]: 2559 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2480   <conf:(0.97)> lift:(1.18) lev:(0.06) conv:(5.74) 
+ 3. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of furniture=t]: 2544 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2455   <conf:(0.97)> lift:(1.18) lev:(0.06) conv:(5.07) 
+ 4. [Manufacture of wearing apparel=t, Manufacture of machinery and equipment n.e.c.=t, Manufacture of electrical equipment=t]: 2490 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2400   <conf:(0.96)> lift:(1.17) lev:(0.05) conv:(4.91) 
+ 5. [Manufacture of food products=t, Manufacture of electrical equipment=t]: 2710 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2592   <conf:(0.96)> lift:(1.17) lev:(0.06) conv:(4.09) 
+ 6. [Manufacture of computer, electronic and optical products=t]: 2541 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2428   <conf:(0.96)> lift:(1.16) lev:(0.05) conv:(4) 
+ 7. [Manufacture of wearing apparel=t, Manufacture of electrical equipment=t]: 2964 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2820   <conf:(0.95)> lift:(1.16) lev:(0.06) conv:(3.67) 
+ 8. [Manufacture of wearing apparel=t, Manufacture of rubber and plastic products=t]: 2655 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2522   <conf:(0.95)> lift:(1.16) lev:(0.05) conv:(3.56) 
+ 9. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of electrical equipment=t]: 3134 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2972   <conf:(0.95)> lift:(1.16) lev:(0.06) conv:(3.45) 
+10. [Manufacture of chemicals and chemical products=t]: 2497 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 2367   <conf:(0.95)> lift:(1.16) lev:(0.05) conv:(3.42) 
+

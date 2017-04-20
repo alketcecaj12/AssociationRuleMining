@@ -1,0 +1,13 @@
+FPGrowth found 42 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 9234 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9217   <conf:(1)> lift:(1.01) lev:(0.01) conv:(5.1) 
+ 2. [Food and beverage service activities=t]: 9273 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9253   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.39) 
+ 3. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 9264 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9233   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.88) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 9268 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9233   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.56) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 9268 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9233   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.42) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 9253 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9217   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.35) 
+ 7. [Food and beverage service activities=t]: 9273 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9234   <conf:(1)> lift:(1.01) lev:(0) conv:(2.18) 
+ 8. [Construction of buildings=t]: 9309 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9268   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.2) 
+ 9. [Specialised construction activities=t]: 9317 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9275   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.15) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 9275 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9233   <conf:(1)> lift:(1) lev:(0) conv:(2.03) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 32 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 10834 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10814   <conf:(1)> lift:(1.01) lev:(0.01) conv:(5.4) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 10928 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10907   <conf:(1)> lift:(1.01) lev:(0.01) conv:(5.2) 
+ 3. [Food and beverage service activities=t, Construction of buildings=t]: 10837 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10810   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.05) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t]: 11069 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 11034   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.22) 
+ 5. [Specialised construction activities=t]: 10852 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10816   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.07) 
+ 6. [Food and beverage service activities=t]: 11033 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10990   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.62) 
+ 7. [Construction of buildings=t]: 10996 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10944   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.17) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 10990 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 10907   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(3.54) 
+ 9. [Food and beverage service activities=t]: 11033 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 10928   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(2.82) 
+10. [Food and beverage service activities=t]: 11033 ==> [Retail trade, except of motor vehicles and motorcycles=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 10907   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(2.62) 
+

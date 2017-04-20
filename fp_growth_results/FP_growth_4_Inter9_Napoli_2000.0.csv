@@ -1,0 +1,29 @@
+
+Apriori
+=======
+
+Minimum support: 0.95 (7053 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 1
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 5
+
+Size of set of large itemsets L(2): 5
+
+Size of set of large itemsets L(3): 1
+
+Best rules found:
+
+ 1. Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 7098 ==> Retail trade, except of motor vehicles and motorcycles=t 7098    <conf:(1)> lift:(1.01) lev:(0.01) [101] conv:(101.35)
+ 2. Retail trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 7126 ==> Wholesale trade, except of motor vehicles and motorcycles=t 7098    <conf:(1)> lift:(1.03) lev:(0.02) [175] conv:(7.02)
+ 3. Wholesale trade, except of motor vehicles and motorcycles=t 7212 ==> Retail trade, except of motor vehicles and motorcycles=t 7183    <conf:(1)> lift:(1.01) lev:(0.01) [73] conv:(3.43)
+ 4. Food and beverage service activities=t 7156 ==> Retail trade, except of motor vehicles and motorcycles=t 7126    <conf:(1)> lift:(1.01) lev:(0.01) [72] conv:(3.3)
+ 5. Specialised construction activities=t 7170 ==> Retail trade, except of motor vehicles and motorcycles=t 7133    <conf:(0.99)> lift:(1.01) lev:(0.01) [65] conv:(2.69)
+ 6. Construction of buildings=t 7105 ==> Retail trade, except of motor vehicles and motorcycles=t 7056    <conf:(0.99)> lift:(1.01) lev:(0.01) [52] conv:(2.03)
+ 7. Food and beverage service activities=t 7156 ==> Wholesale trade, except of motor vehicles and motorcycles=t 7098    <conf:(0.99)> lift:(1.02) lev:(0.02) [146] conv:(3.46)
+ 8. Food and beverage service activities=t 7156 ==> Wholesale trade, except of motor vehicles and motorcycles=t Retail trade, except of motor vehicles and motorcycles=t 7098    <conf:(0.99)> lift:(1.03) lev:(0.02) [174] conv:(3.94)
+ 9. Wholesale trade, except of motor vehicles and motorcycles=t Retail trade, except of motor vehicles and motorcycles=t 7183 ==> Food and beverage service activities=t 7098    <conf:(0.99)> lift:(1.03) lev:(0.02) [174] conv:(3.02)
+10. Wholesale trade, except of motor vehicles and motorcycles=t 7212 ==> Food and beverage service activities=t 7098    <conf:(0.98)> lift:(1.02) lev:(0.02) [146] conv:(2.26)
+

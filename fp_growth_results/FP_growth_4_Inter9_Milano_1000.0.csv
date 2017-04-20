@@ -1,0 +1,29 @@
+
+Apriori
+=======
+
+Minimum support: 0.7 (1443 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 6
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 9
+
+Size of set of large itemsets L(2): 13
+
+Size of set of large itemsets L(3): 8
+
+Best rules found:
+
+ 1. Construction of buildings=t Specialised construction activities=t 1499 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1469    <conf:(0.98)> lift:(1.12) lev:(0.07) [153] conv:(5.91)
+ 2. Manufacture of fabricated metal products, except machinery and equipment=t Retail trade, except of motor vehicles and motorcycles=t 1493 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1463    <conf:(0.98)> lift:(1.12) lev:(0.07) [152] conv:(5.89)
+ 3. Construction of buildings=t Retail trade, except of motor vehicles and motorcycles=t 1476 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1446    <conf:(0.98)> lift:(1.12) lev:(0.07) [150] conv:(5.82)
+ 4. Manufacture of fabricated metal products, except machinery and equipment=t Specialised construction activities=t 1495 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1464    <conf:(0.98)> lift:(1.12) lev:(0.07) [151] conv:(5.71)
+ 5. Manufacture of machinery and equipment n.e.c.=t 1488 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1454    <conf:(0.98)> lift:(1.11) lev:(0.07) [147] conv:(5.2)
+ 6. Specialised construction activities=t Retail trade, except of motor vehicles and motorcycles=t 1580 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1542    <conf:(0.98)> lift:(1.11) lev:(0.08) [155] conv:(4.95)
+ 7. Retail trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 1535 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1497    <conf:(0.98)> lift:(1.11) lev:(0.07) [149] conv:(4.81)
+ 8. Specialised construction activities=t Food and beverage service activities=t 1514 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1476    <conf:(0.97)> lift:(1.11) lev:(0.07) [147] conv:(4.74)
+ 9. Construction of buildings=t Wholesale trade, except of motor vehicles and motorcycles=t 1516 ==> Specialised construction activities=t 1469    <conf:(0.97)> lift:(1.16) lev:(0.1) [203] conv:(5.22)
+10. Manufacture of fabricated metal products, except machinery and equipment=t 1605 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1552    <conf:(0.97)> lift:(1.1) lev:(0.07) [143] conv:(3.63)
+

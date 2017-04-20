@@ -1,0 +1,13 @@
+FPGrowth found 3484 rules (displaying top 10)
+
+ 1. [Postal and courier activities=t]: 1122 ==> [Crop and animal production, hunting and related service activities=t]: 1122   <conf:(1)> lift:(1) lev:(0) conv:(3.92) 
+ 2. [Financial service activities, except insurance and pension funding=t]: 1114 ==> [Crop and animal production, hunting and related service activities=t]: 1114   <conf:(1)> lift:(1) lev:(0) conv:(3.89) 
+ 3. [Education=t]: 1105 ==> [Crop and animal production, hunting and related service activities=t]: 1105   <conf:(1)> lift:(1) lev:(0) conv:(3.86) 
+ 4. [Social work activities without accommodation=t]: 1096 ==> [Crop and animal production, hunting and related service activities=t]: 1096   <conf:(1)> lift:(1) lev:(0) conv:(3.83) 
+ 5. [Activities auxiliary to financial services and insurance activities=t]: 1094 ==> [Crop and animal production, hunting and related service activities=t]: 1094   <conf:(1)> lift:(1) lev:(0) conv:(3.82) 
+ 6. [Food and beverage service activities=t]: 1127 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1127   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.88) 
+ 7. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 1103 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1103   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.74) 
+ 8. [Activities auxiliary to financial services and insurance activities=t]: 1094 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1094   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.68) 
+ 9. [Crop and animal production, hunting and related service activities=t, Food and beverage service activities=t]: 1123 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1123   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.86) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 1117 ==> [Crop and animal production, hunting and related service activities=t]: 1117   <conf:(1)> lift:(1) lev:(0) conv:(3.9) 
+

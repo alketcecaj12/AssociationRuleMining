@@ -1,0 +1,13 @@
+FPGrowth found 15 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 11703 ==> [Crop and animal production, hunting and related service activities=t]: 11367   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.37) 
+ 2. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 12041 ==> [Crop and animal production, hunting and related service activities=t]: 11686   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.31) 
+ 3. [Manufacture of food products=t]: 13310 ==> [Crop and animal production, hunting and related service activities=t]: 12806   <conf:(0.96)> lift:(1.03) lev:(0.03) conv:(1.8) 
+ 4. [Manufacture of wearing apparel=t]: 12918 ==> [Crop and animal production, hunting and related service activities=t]: 12349   <conf:(0.96)> lift:(1.03) lev:(0.02) conv:(1.55) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 12617 ==> [Crop and animal production, hunting and related service activities=t]: 12033   <conf:(0.95)> lift:(1.02) lev:(0.02) conv:(1.47) 
+ 6. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 12349 ==> [Manufacture of food products=t]: 11686   <conf:(0.95)> lift:(1.07) lev:(0.05) conv:(2.15) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 12033 ==> [Manufacture of food products=t]: 11367   <conf:(0.94)> lift:(1.07) lev:(0.05) conv:(2.09) 
+ 8. [Manufacture of wearing apparel=t]: 12918 ==> [Manufacture of food products=t]: 12041   <conf:(0.93)> lift:(1.05) lev:(0.04) conv:(1.7) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t]: 12617 ==> [Manufacture of food products=t]: 11703   <conf:(0.93)> lift:(1.05) lev:(0.04) conv:(1.6) 
+10. [Crop and animal production, hunting and related service activities=t]: 14023 ==> [Manufacture of food products=t]: 12806   <conf:(0.91)> lift:(1.03) lev:(0.03) conv:(1.33) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 126 rules (displaying top 10)
+
+ 1. [Construction of buildings=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14348 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 14348   <conf:(1)> lift:(1.01) lev:(0.01) conv:(96.28) 
+ 2. [Construction of buildings=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14348 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 14348   <conf:(1)> lift:(1.01) lev:(0.01) conv:(117.25) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Construction of buildings=t]: 14467 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 14467   <conf:(1)> lift:(1.01) lev:(0.01) conv:(97.07) 
+ 4. [Construction of buildings=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14348 ==> [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 14348   <conf:(1)> lift:(1.01) lev:(0.01) conv:(144.89) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14348 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 14348   <conf:(1)> lift:(1.01) lev:(0.01) conv:(117.25) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14348 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 14348   <conf:(1)> lift:(1.01) lev:(0.01) conv:(96.28) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14523 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 14522   <conf:(1)> lift:(1.01) lev:(0.01) conv:(59.34) 
+ 8. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Construction of buildings=t]: 14468 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 14467   <conf:(1)> lift:(1.01) lev:(0.01) conv:(59.11) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 14327 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 14326   <conf:(1)> lift:(1.01) lev:(0.01) conv:(58.54) 
+10. [Specialised construction activities=t, Construction of buildings=t]: 14470 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 14468   <conf:(1)> lift:(1.01) lev:(0.01) conv:(32.36) 
+

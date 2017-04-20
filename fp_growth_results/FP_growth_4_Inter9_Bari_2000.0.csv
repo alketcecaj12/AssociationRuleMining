@@ -1,0 +1,31 @@
+
+Apriori
+=======
+
+Minimum support: 0.9 (6290 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 2
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 7
+
+Size of set of large itemsets L(2): 13
+
+Size of set of large itemsets L(3): 10
+
+Size of set of large itemsets L(4): 3
+
+Best rules found:
+
+ 1. Construction of buildings=t Specialised construction activities=t Wholesale trade, except of motor vehicles and motorcycles=t 6400 ==> Retail trade, except of motor vehicles and motorcycles=t 6400    <conf:(1)> lift:(1.04) lev:(0.04) [271] conv:(271.97)
+ 2. Manufacture of food products=t Specialised construction activities=t 6352 ==> Retail trade, except of motor vehicles and motorcycles=t 6352    <conf:(1)> lift:(1.04) lev:(0.04) [269] conv:(269.93)
+ 3. Manufacture of food products=t Specialised construction activities=t Wholesale trade, except of motor vehicles and motorcycles=t 6350 ==> Retail trade, except of motor vehicles and motorcycles=t 6350    <conf:(1)> lift:(1.04) lev:(0.04) [269] conv:(269.85)
+ 4. Financial service activities, except insurance and pension funding=t 6299 ==> Retail trade, except of motor vehicles and motorcycles=t 6299    <conf:(1)> lift:(1.04) lev:(0.04) [267] conv:(267.68)
+ 5. Construction of buildings=t Wholesale trade, except of motor vehicles and motorcycles=t 6409 ==> Retail trade, except of motor vehicles and motorcycles=t 6407    <conf:(1)> lift:(1.04) lev:(0.04) [270] conv:(90.78)
+ 6. Construction of buildings=t Specialised construction activities=t Retail trade, except of motor vehicles and motorcycles=t 6402 ==> Wholesale trade, except of motor vehicles and motorcycles=t 6400    <conf:(1)> lift:(1.05) lev:(0.05) [314] conv:(105.65)
+ 7. Manufacture of food products=t Specialised construction activities=t 6352 ==> Wholesale trade, except of motor vehicles and motorcycles=t 6350    <conf:(1)> lift:(1.05) lev:(0.04) [312] conv:(104.82)
+ 8. Manufacture of food products=t Specialised construction activities=t Retail trade, except of motor vehicles and motorcycles=t 6352 ==> Wholesale trade, except of motor vehicles and motorcycles=t 6350    <conf:(1)> lift:(1.05) lev:(0.04) [312] conv:(104.82)
+ 9. Manufacture of food products=t Specialised construction activities=t 6352 ==> Wholesale trade, except of motor vehicles and motorcycles=t Retail trade, except of motor vehicles and motorcycles=t 6350    <conf:(1)> lift:(1.06) lev:(0.05) [343] conv:(115.12)
+10. Manufacture of food products=t Wholesale trade, except of motor vehicles and motorcycles=t 6386 ==> Retail trade, except of motor vehicles and motorcycles=t 6383    <conf:(1)> lift:(1.04) lev:(0.04) [268] conv:(67.84)
+

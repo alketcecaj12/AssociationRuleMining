@@ -1,0 +1,13 @@
+FPGrowth found 4968 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Real estate activities=t]: 23674 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23674   <conf:(1)> lift:(1) lev:(0) conv:(61.91) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Warehousing and support activities for transportation=t]: 23279 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23279   <conf:(1)> lift:(1) lev:(0) conv:(60.88) 
+ 3. [Food and beverage service activities=t, Real estate activities=t]: 23593 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23593   <conf:(1)> lift:(1) lev:(0) conv:(61.7) 
+ 4. [Financial service activities, except insurance and pension funding=t, Real estate activities=t]: 23392 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23392   <conf:(1)> lift:(1) lev:(0) conv:(61.17) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Real estate activities=t]: 23633 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23633   <conf:(1)> lift:(1) lev:(0) conv:(61.8) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t, Real estate activities=t]: 23579 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23579   <conf:(1)> lift:(1) lev:(0) conv:(61.66) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t, Crop and animal production, hunting and related service activities=t, Real estate activities=t]: 23386 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23386   <conf:(1)> lift:(1) lev:(0) conv:(61.16) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Real estate activities=t]: 23490 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23490   <conf:(1)> lift:(1) lev:(0) conv:(61.43) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Land transport and transport via pipelines=t, Real estate activities=t]: 23335 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23335   <conf:(1)> lift:(1) lev:(0) conv:(61.02) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t, Real estate activities=t]: 23379 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 23379   <conf:(1)> lift:(1) lev:(0) conv:(61.14) 
+

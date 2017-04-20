@@ -1,0 +1,13 @@
+FPGrowth found 16 rules (displaying top 10)
+
+ 1. [Specialised construction activities=t]: 6338 ==> [Crop and animal production, hunting and related service activities=t]: 6301   <conf:(0.99)> lift:(1) lev:(0) conv:(1.8) 
+ 2. [Specialised construction activities=t]: 6338 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6294   <conf:(0.99)> lift:(1.01) lev:(0) conv:(1.71) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t]: 6402 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6346   <conf:(0.99)> lift:(1) lev:(0) conv:(1.36) 
+ 4. [Crop and animal production, hunting and related service activities=t, Retail trade, except of motor vehicles and motorcycles=t]: 6337 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6281   <conf:(0.99)> lift:(1) lev:(0) conv:(1.35) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t]: 6402 ==> [Crop and animal production, hunting and related service activities=t]: 6337   <conf:(0.99)> lift:(1) lev:(0) conv:(1.05) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 6346 ==> [Crop and animal production, hunting and related service activities=t]: 6281   <conf:(0.99)> lift:(1) lev:(0) conv:(1.04) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t]: 6510 ==> [Crop and animal production, hunting and related service activities=t]: 6440   <conf:(0.99)> lift:(1) lev:(0) conv:(0.99) 
+ 8. [Crop and animal production, hunting and related service activities=t]: 6519 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6440   <conf:(0.99)> lift:(1) lev:(0) conv:(0.99) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t]: 6402 ==> [Crop and animal production, hunting and related service activities=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 6281   <conf:(0.98)> lift:(1) lev:(0) conv:(1.19) 
+10. [Crop and animal production, hunting and related service activities=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 6440 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 6281   <conf:(0.98)> lift:(1) lev:(0) conv:(1.15) 
+

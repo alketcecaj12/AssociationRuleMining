@@ -1,0 +1,13 @@
+FPGrowth found 1932 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Sports activities and amusement and recreation activities=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 2. [Sports activities and amusement and recreation activities=t]: 9664 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 3. [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Postal and courier activities=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 6. [Postal and courier activities=t]: 9664 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Food and beverage service activities=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 8. [Food and beverage service activities=t]: 9664 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664 ==> [Crop and animal production, hunting and related service activities=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+10. [Crop and animal production, hunting and related service activities=t]: 9664 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 9664   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+

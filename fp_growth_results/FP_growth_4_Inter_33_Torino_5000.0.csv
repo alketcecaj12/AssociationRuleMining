@@ -1,0 +1,13 @@
+FPGrowth found 370918 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t]: 7597 ==> [Crop and animal production, hunting and related service activities=t]: 7597   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t]: 7593 ==> [Crop and animal production, hunting and related service activities=t]: 7593   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 3. [Postal and courier activities=t]: 7592 ==> [Crop and animal production, hunting and related service activities=t]: 7592   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 4. [Specialised construction activities=t]: 7580 ==> [Crop and animal production, hunting and related service activities=t]: 7580   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 5. [Financial service activities, except insurance and pension funding=t]: 7572 ==> [Crop and animal production, hunting and related service activities=t]: 7572   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 6. [Food and beverage service activities=t]: 7546 ==> [Crop and animal production, hunting and related service activities=t]: 7546   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 7. [Land transport and transport via pipelines=t]: 7524 ==> [Crop and animal production, hunting and related service activities=t]: 7524   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 8. [Construction of buildings=t]: 7522 ==> [Crop and animal production, hunting and related service activities=t]: 7522   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 9. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 7485 ==> [Crop and animal production, hunting and related service activities=t]: 7485   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+10. [Other personal service activities=t]: 7450 ==> [Crop and animal production, hunting and related service activities=t]: 7450   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 13088 rules (displaying top 10)
+
+ 1. [Other personal service activities=t]: 52986 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52986   <conf:(1)> lift:(1) lev:(0) conv:(31.83) 
+ 2. [Services to buildings and landscape activities=t]: 52836 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52836   <conf:(1)> lift:(1) lev:(0) conv:(31.74) 
+ 3. [Education=t]: 52243 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52243   <conf:(1)> lift:(1) lev:(0) conv:(31.38) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 54762 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 54762   <conf:(1)> lift:(1) lev:(0) conv:(32.9) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Other personal service activities=t]: 52976 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52976   <conf:(1)> lift:(1) lev:(0) conv:(31.82) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Services to buildings and landscape activities=t]: 52818 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52818   <conf:(1)> lift:(1) lev:(0) conv:(31.73) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Education=t]: 52236 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52236   <conf:(1)> lift:(1) lev:(0) conv:(31.38) 
+ 8. [Food and beverage service activities=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 54043 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 54043   <conf:(1)> lift:(1) lev:(0) conv:(32.46) 
+ 9. [Food and beverage service activities=t, Other personal service activities=t]: 52949 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52949   <conf:(1)> lift:(1) lev:(0) conv:(31.81) 
+10. [Food and beverage service activities=t, Services to buildings and landscape activities=t]: 52793 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 52793   <conf:(1)> lift:(1) lev:(0) conv:(31.71) 
+

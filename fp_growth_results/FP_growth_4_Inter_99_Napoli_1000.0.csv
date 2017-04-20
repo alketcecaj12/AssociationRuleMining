@@ -1,0 +1,13 @@
+FPGrowth found 25 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 45884 ==> [Crop and animal production, hunting and related service activities=t]: 45518   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.78) 
+ 2. [Manufacture of wearing apparel=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 44411 ==> [Crop and animal production, hunting and related service activities=t]: 44040   <conf:(0.99)> lift:(1.01) lev:(0) conv:(1.7) 
+ 3. [Manufacture of food products=t]: 50155 ==> [Crop and animal production, hunting and related service activities=t]: 49677   <conf:(0.99)> lift:(1) lev:(0) conv:(1.49) 
+ 4. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 46062 ==> [Crop and animal production, hunting and related service activities=t]: 45592   <conf:(0.99)> lift:(1) lev:(0) conv:(1.39) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 48412 ==> [Crop and animal production, hunting and related service activities=t]: 47909   <conf:(0.99)> lift:(1) lev:(0) conv:(1.37) 
+ 6. [Manufacture of wearing apparel=t]: 48493 ==> [Crop and animal production, hunting and related service activities=t]: 47964   <conf:(0.99)> lift:(1) lev:(0) conv:(1.3) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 47909 ==> [Manufacture of food products=t]: 45592   <conf:(0.95)> lift:(1.04) lev:(0.03) conv:(1.8) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 48412 ==> [Manufacture of food products=t]: 46062   <conf:(0.95)> lift:(1.04) lev:(0.03) conv:(1.79) 
+ 9. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 47964 ==> [Manufacture of food products=t]: 45518   <conf:(0.95)> lift:(1.04) lev:(0.03) conv:(1.71) 
+10. [Manufacture of wearing apparel=t]: 48493 ==> [Manufacture of food products=t]: 45884   <conf:(0.95)> lift:(1.04) lev:(0.03) conv:(1.62) 
+

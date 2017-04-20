@@ -1,0 +1,13 @@
+FPGrowth found 29 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 13460 ==> [Crop and animal production, hunting and related service activities=t]: 13174   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.58) 
+ 2. [Manufacture of wearing apparel=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 13179 ==> [Crop and animal production, hunting and related service activities=t]: 12868   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.43) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t]: 13868 ==> [Crop and animal production, hunting and related service activities=t]: 13539   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.42) 
+ 4. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 13539 ==> [Manufacture of food products=t]: 13174   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.7) 
+ 5. [Manufacture of food products=t]: 14362 ==> [Crop and animal production, hunting and related service activities=t]: 13971   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.24) 
+ 6. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 13545 ==> [Crop and animal production, hunting and related service activities=t]: 13168   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.21) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 13559 ==> [Manufacture of food products=t]: 13168   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.59) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 13868 ==> [Manufacture of food products=t]: 13460   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.55) 
+ 9. [Manufacture of wearing apparel=t]: 14009 ==> [Crop and animal production, hunting and related service activities=t]: 13559   <conf:(0.97)> lift:(1) lev:(0) conv:(1.05) 
+10. [Manufacture of wearing apparel=t]: 14009 ==> [Manufacture of food products=t]: 13545   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.38) 
+

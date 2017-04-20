@@ -1,0 +1,29 @@
+
+Apriori
+=======
+
+Minimum support: 0.9 (1856 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 2
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 8
+
+Size of set of large itemsets L(2): 9
+
+Size of set of large itemsets L(3): 3
+
+Best rules found:
+
+ 1. Specialised construction activities=t Retail trade, except of motor vehicles and motorcycles=t 1908 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1889    <conf:(0.99)> lift:(1.03) lev:(0.03) [55] conv:(3.7)
+ 2. Retail trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 1890 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1870    <conf:(0.99)> lift:(1.03) lev:(0.03) [53] conv:(3.49)
+ 3. Manufacture of fabricated metal products, except machinery and equipment=t 1906 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1880    <conf:(0.99)> lift:(1.03) lev:(0.02) [47] conv:(2.74)
+ 4. Retail trade, except of motor vehicles and motorcycles=t 1953 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1926    <conf:(0.99)> lift:(1.03) lev:(0.02) [48] conv:(2.71)
+ 5. Specialised construction activities=t Food and beverage service activities=t 1883 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1856    <conf:(0.99)> lift:(1.03) lev:(0.02) [46] conv:(2.61)
+ 6. Wholesale trade, except of motor vehicles and motorcycles=t Food and beverage service activities=t 1899 ==> Retail trade, except of motor vehicles and motorcycles=t 1870    <conf:(0.98)> lift:(1.04) lev:(0.03) [71] conv:(3.35)
+ 7. Food and beverage service activities=t 1933 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1899    <conf:(0.98)> lift:(1.02) lev:(0.02) [40] conv:(2.14)
+ 8. Specialised construction activities=t 1965 ==> Wholesale trade, except of motor vehicles and motorcycles=t 1929    <conf:(0.98)> lift:(1.02) lev:(0.02) [40] conv:(2.06)
+ 9. Manufacture of fabricated metal products, except machinery and equipment=t 1906 ==> Specialised construction activities=t 1870    <conf:(0.98)> lift:(1.03) lev:(0.03) [53] conv:(2.42)
+10. Wholesale trade, except of motor vehicles and motorcycles=t Retail trade, except of motor vehicles and motorcycles=t 1926 ==> Specialised construction activities=t 1889    <conf:(0.98)> lift:(1.03) lev:(0.03) [53] conv:(2.38)
+

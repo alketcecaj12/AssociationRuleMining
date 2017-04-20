@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t]: 7424 ==> [Postal and courier activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 2. [Postal and courier activities=t]: 7424 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t]: 7424 ==> [Food and beverage service activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 4. [Food and beverage service activities=t]: 7424 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 5. [Postal and courier activities=t]: 7424 ==> [Food and beverage service activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 6. [Food and beverage service activities=t]: 7424 ==> [Postal and courier activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t]: 7424 ==> [Postal and courier activities=t, Food and beverage service activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 8. [Postal and courier activities=t]: 7424 ==> [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 7424 ==> [Food and beverage service activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+10. [Food and beverage service activities=t]: 7424 ==> [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 7424   <conf:(1)> lift:(1) lev:(0) conv:(0) 
+

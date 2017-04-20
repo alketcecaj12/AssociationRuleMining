@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Manufacture of wearing apparel=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 9216 ==> [Manufacture of food products=t]: 9147   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.49) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9390 ==> [Manufacture of food products=t]: 9288   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.73) 
+ 3. [Manufacture of wearing apparel=t]: 9440 ==> [Manufacture of food products=t]: 9298   <conf:(0.98)> lift:(1) lev:(0) conv:(1.25) 
+ 4. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 9288 ==> [Manufacture of wearing apparel=t]: 9147   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.52) 
+ 5. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 9298 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 9147   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.73) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9390 ==> [Manufacture of wearing apparel=t]: 9216   <conf:(0.98)> lift:(1) lev:(0) conv:(1.24) 
+ 7. [Manufacture of food products=t]: 9481 ==> [Manufacture of wearing apparel=t]: 9298   <conf:(0.98)> lift:(1) lev:(0) conv:(1.19) 
+ 8. [Manufacture of food products=t]: 9481 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 9288   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.39) 
+ 9. [Manufacture of wearing apparel=t]: 9440 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 9216   <conf:(0.98)> lift:(1) lev:(0) conv:(1.19) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9390 ==> [Manufacture of food products=t, Manufacture of wearing apparel=t]: 9147   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.46) 
+

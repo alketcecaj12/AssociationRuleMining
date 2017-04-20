@@ -1,0 +1,13 @@
+FPGrowth found 56 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 13877 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13870   <conf:(1)> lift:(1.01) lev:(0.01) conv:(24.09) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 13768 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13750   <conf:(1)> lift:(1.01) lev:(0.01) conv:(10.06) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 13944 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13924   <conf:(1)> lift:(1.01) lev:(0.01) conv:(9.22) 
+ 4. [Specialised construction activities=t, Construction of buildings=t]: 13595 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13574   <conf:(1)> lift:(1.01) lev:(0.01) conv:(8.58) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 13980 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13955   <conf:(1)> lift:(1.01) lev:(0.01) conv:(7.47) 
+ 6. [Construction of buildings=t]: 14014 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13983   <conf:(1)> lift:(1.01) lev:(0.01) conv:(6.08) 
+ 7. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 13989 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 13956   <conf:(1)> lift:(1.01) lev:(0.01) conv:(5.71) 
+ 8. [Specialised construction activities=t, Construction of buildings=t]: 13595 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 13558   <conf:(1)> lift:(1.02) lev:(0.02) conv:(8.44) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 13983 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 13924   <conf:(1)> lift:(1.02) lev:(0.02) conv:(5.5) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 13812 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 13750   <conf:(1)> lift:(1.02) lev:(0.02) conv:(5.17) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 1536 rules (displaying top 10)
+
+ 1. [Construction of buildings=t, Real estate activities=t]: 7393 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7391   <conf:(1)> lift:(1.01) lev:(0.01) conv:(25.13) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Real estate activities=t]: 7380 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7378   <conf:(1)> lift:(1.01) lev:(0.01) conv:(25.09) 
+ 3. [Crop and animal production, hunting and related service activities=t, Construction of buildings=t, Real estate activities=t]: 7369 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7367   <conf:(1)> lift:(1.01) lev:(0.01) conv:(25.05) 
+ 4. [Specialised construction activities=t, Construction of buildings=t, Real estate activities=t]: 7364 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7362   <conf:(1)> lift:(1.01) lev:(0.01) conv:(25.03) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t, Real estate activities=t]: 7365 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7361   <conf:(1)> lift:(1.01) lev:(0.01) conv:(15.02) 
+ 6. [Land transport and transport via pipelines=t, Real estate activities=t]: 7364 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7360   <conf:(1)> lift:(1.01) lev:(0.01) conv:(15.02) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t, Real estate activities=t]: 7455 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7450   <conf:(1)> lift:(1.01) lev:(0.01) conv:(12.67) 
+ 8. [Crop and animal production, hunting and related service activities=t, Wholesale trade, except of motor vehicles and motorcycles=t, Real estate activities=t]: 7431 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7426   <conf:(1)> lift:(1.01) lev:(0.01) conv:(12.63) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Real estate activities=t]: 7427 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7422   <conf:(1)> lift:(1.01) lev:(0.01) conv:(12.62) 
+10. [Crop and animal production, hunting and related service activities=t, Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Real estate activities=t]: 7405 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7400   <conf:(1)> lift:(1.01) lev:(0.01) conv:(12.59) 
+

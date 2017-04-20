@@ -1,0 +1,13 @@
+FPGrowth found 719002 rules (displaying top 10)
+
+ 1. [Land transport and transport via pipelines=t]: 6517 ==> [Crop and animal production, hunting and related service activities=t]: 6517   <conf:(1)> lift:(1) lev:(0) conv:(1.98) 
+ 2. [Other personal service activities=t]: 6482 ==> [Crop and animal production, hunting and related service activities=t]: 6482   <conf:(1)> lift:(1) lev:(0) conv:(1.97) 
+ 3. [Information service activities=t]: 6388 ==> [Crop and animal production, hunting and related service activities=t]: 6388   <conf:(1)> lift:(1) lev:(0) conv:(1.94) 
+ 4. [Activities auxiliary to financial services and insurance activities=t]: 6355 ==> [Crop and animal production, hunting and related service activities=t]: 6355   <conf:(1)> lift:(1) lev:(0) conv:(1.93) 
+ 5. [Land transport and transport via pipelines=t]: 6517 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6517   <conf:(1)> lift:(1) lev:(0) conv:(4.94) 
+ 6. [Other personal service activities=t]: 6482 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6482   <conf:(1)> lift:(1) lev:(0) conv:(4.92) 
+ 7. [Real estate activities=t]: 6467 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6467   <conf:(1)> lift:(1) lev:(0) conv:(4.91) 
+ 8. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 6424 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6424   <conf:(1)> lift:(1) lev:(0) conv:(4.87) 
+ 9. [Activities auxiliary to financial services and insurance activities=t]: 6355 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 6355   <conf:(1)> lift:(1) lev:(0) conv:(4.82) 
+10. [Land transport and transport via pipelines=t]: 6517 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 6517   <conf:(1)> lift:(1) lev:(0) conv:(4.94) 
+

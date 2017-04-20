@@ -1,0 +1,13 @@
+FPGrowth found 182 rules (displaying top 10)
+
+ 1. [Manufacture of other non-metallic mineral products=t]: 86054 ==> [Crop and animal production, hunting and related service activities=t]: 86054   <conf:(1)> lift:(1) lev:(0) conv:(6.78) 
+ 2. [Manufacture of wearing apparel=t]: 85975 ==> [Crop and animal production, hunting and related service activities=t]: 85975   <conf:(1)> lift:(1) lev:(0) conv:(6.78) 
+ 3. [Other manufacturing=t]: 84715 ==> [Crop and animal production, hunting and related service activities=t]: 84715   <conf:(1)> lift:(1) lev:(0) conv:(6.68) 
+ 4. [Manufacture of wood and of products of wood and cork, except furniture=t]: 84640 ==> [Crop and animal production, hunting and related service activities=t]: 84640   <conf:(1)> lift:(1) lev:(0) conv:(6.67) 
+ 5. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 85505 ==> [Crop and animal production, hunting and related service activities=t]: 85505   <conf:(1)> lift:(1) lev:(0) conv:(6.74) 
+ 6. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 85657 ==> [Crop and animal production, hunting and related service activities=t]: 85657   <conf:(1)> lift:(1) lev:(0) conv:(6.75) 
+ 7. [Manufacture of food products=t, Other manufacturing=t]: 84540 ==> [Crop and animal production, hunting and related service activities=t]: 84540   <conf:(1)> lift:(1) lev:(0) conv:(6.66) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of other non-metallic mineral products=t]: 85373 ==> [Crop and animal production, hunting and related service activities=t]: 85373   <conf:(1)> lift:(1) lev:(0) conv:(6.73) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 85388 ==> [Crop and animal production, hunting and related service activities=t]: 85388   <conf:(1)> lift:(1) lev:(0) conv:(6.73) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Other manufacturing=t]: 84418 ==> [Crop and animal production, hunting and related service activities=t]: 84418   <conf:(1)> lift:(1) lev:(0) conv:(6.65) 
+

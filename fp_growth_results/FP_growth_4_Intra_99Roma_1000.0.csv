@@ -1,0 +1,13 @@
+FPGrowth found 26 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 84841 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 84507   <conf:(1)> lift:(1.01) lev:(0.01) conv:(4.26) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 85301 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 84803   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.88) 
+ 3. [Food and beverage service activities=t]: 85635 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 85093   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.65) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 85093 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 84507   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.68) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 85454 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 84803   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.42) 
+ 6. [Construction of buildings=t]: 85338 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 84644   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.07) 
+ 7. [Specialised construction activities=t]: 86209 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 85454   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.92) 
+ 8. [Construction of buildings=t]: 85338 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 84574   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.06) 
+ 9. [Food and beverage service activities=t]: 85635 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 84841   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.99) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t]: 87187 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 86321   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.69) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 17832 rules (displaying top 10)
+
+ 1. [Services to buildings and landscape activities=t]: 9265 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9265   <conf:(1)> lift:(1) lev:(0) conv:(8.63) 
+ 2. [Construction of buildings=t]: 9561 ==> [Crop and animal production, hunting and related service activities=t]: 9561   <conf:(1)> lift:(1) lev:(0) conv:(44.52) 
+ 3. [Services to buildings and landscape activities=t]: 9265 ==> [Crop and animal production, hunting and related service activities=t]: 9265   <conf:(1)> lift:(1) lev:(0) conv:(43.14) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 9618 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9618   <conf:(1)> lift:(1) lev:(0) conv:(8.96) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Services to buildings and landscape activities=t]: 9258 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9258   <conf:(1)> lift:(1) lev:(0) conv:(8.62) 
+ 6. [Food and beverage service activities=t, Construction of buildings=t]: 9537 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9537   <conf:(1)> lift:(1) lev:(0) conv:(8.88) 
+ 7. [Food and beverage service activities=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 9502 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9502   <conf:(1)> lift:(1) lev:(0) conv:(8.85) 
+ 8. [Food and beverage service activities=t, Services to buildings and landscape activities=t]: 9256 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 9256   <conf:(1)> lift:(1) lev:(0) conv:(8.62) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 9557 ==> [Crop and animal production, hunting and related service activities=t]: 9557   <conf:(1)> lift:(1) lev:(0) conv:(44.5) 
+10. [Services to buildings and landscape activities=t]: 9265 ==> [Retail trade, except of motor vehicles and motorcycles=t, Crop and animal production, hunting and related service activities=t]: 9265   <conf:(1)> lift:(1.01) lev:(0.01) conv:(49.85) 
+

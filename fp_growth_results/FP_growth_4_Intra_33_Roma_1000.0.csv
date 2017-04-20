@@ -1,0 +1,13 @@
+FPGrowth found 25 rules (displaying top 10)
+
+ 1. [Manufacture of fabricated metal products, except machinery and equipment=t, Printing and reproduction of recorded media=t]: 4880 ==> [Manufacture of food products=t]: 4735   <conf:(0.97)> lift:(1.14) lev:(0.07) conv:(4.96) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 5189 ==> [Manufacture of food products=t]: 5011   <conf:(0.97)> lift:(1.13) lev:(0.08) conv:(4.3) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of computer, electronic and optical products=t]: 5028 ==> [Manufacture of food products=t]: 4847   <conf:(0.96)> lift:(1.13) lev:(0.07) conv:(4.1) 
+ 4. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 4901 ==> [Manufacture of food products=t]: 4723   <conf:(0.96)> lift:(1.13) lev:(0.07) conv:(4.06) 
+ 5. [Manufacture of electrical equipment=t]: 4881 ==> [Manufacture of food products=t]: 4673   <conf:(0.96)> lift:(1.12) lev:(0.07) conv:(3.46) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t, Repair and installation of machinery and equipment=t]: 4949 ==> [Manufacture of food products=t]: 4733   <conf:(0.96)> lift:(1.12) lev:(0.07) conv:(3.38) 
+ 7. [Manufacture of food products=t, Manufacture of machinery and equipment n.e.c.=t]: 4944 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 4723   <conf:(0.96)> lift:(1.16) lev:(0.08) conv:(3.9) 
+ 8. [Manufacture of food products=t, Printing and reproduction of recorded media=t]: 5001 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 4735   <conf:(0.95)> lift:(1.15) lev:(0.08) conv:(3.28) 
+ 9. [Other manufacturing=t]: 5005 ==> [Manufacture of food products=t]: 4724   <conf:(0.94)> lift:(1.11) lev:(0.06) conv:(2.63) 
+10. [Manufacture of machinery and equipment n.e.c.=t]: 5244 ==> [Manufacture of food products=t]: 4944   <conf:(0.94)> lift:(1.11) lev:(0.06) conv:(2.58) 
+

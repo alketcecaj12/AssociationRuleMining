@@ -1,0 +1,13 @@
+FPGrowth found 12 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 64001 ==> [Crop and animal production, hunting and related service activities=t]: 62458   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.14) 
+ 2. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 67258 ==> [Crop and animal production, hunting and related service activities=t]: 65628   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.13) 
+ 3. [Repair and installation of machinery and equipment=t]: 63757 ==> [Crop and animal production, hunting and related service activities=t]: 62211   <conf:(0.98)> lift:(1.03) lev:(0.02) conv:(2.13) 
+ 4. [Manufacture of food products=t]: 76480 ==> [Crop and animal production, hunting and related service activities=t]: 74241   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.76) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 71862 ==> [Crop and animal production, hunting and related service activities=t]: 69621   <conf:(0.97)> lift:(1.02) lev:(0.02) conv:(1.65) 
+ 6. [Manufacture of wearing apparel=t]: 67105 ==> [Crop and animal production, hunting and related service activities=t]: 64899   <conf:(0.97)> lift:(1.02) lev:(0.01) conv:(1.57) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 64899 ==> [Manufacture of food products=t]: 62458   <conf:(0.96)> lift:(1.12) lev:(0.07) conv:(3.69) 
+ 8. [Manufacture of wearing apparel=t]: 67105 ==> [Manufacture of food products=t]: 64001   <conf:(0.95)> lift:(1.11) lev:(0.07) conv:(3) 
+ 9. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 69621 ==> [Manufacture of food products=t]: 65628   <conf:(0.94)> lift:(1.09) lev:(0.06) conv:(2.42) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t]: 71862 ==> [Manufacture of food products=t]: 67258   <conf:(0.94)> lift:(1.09) lev:(0.06) conv:(2.17) 
+

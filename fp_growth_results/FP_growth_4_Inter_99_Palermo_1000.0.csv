@@ -1,0 +1,13 @@
+FPGrowth found 17 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 6827 ==> [Crop and animal production, hunting and related service activities=t]: 6827   <conf:(1)> lift:(1.03) lev:(0.02) conv:(186.02) 
+ 2. [Manufacture of wearing apparel=t]: 7011 ==> [Crop and animal production, hunting and related service activities=t]: 7009   <conf:(1)> lift:(1.03) lev:(0.02) conv:(63.68) 
+ 3. [Manufacture of food products=t, Repair and installation of machinery and equipment=t]: 6870 ==> [Crop and animal production, hunting and related service activities=t]: 6865   <conf:(1)> lift:(1.03) lev:(0.02) conv:(31.2) 
+ 4. [Repair and installation of machinery and equipment=t]: 7137 ==> [Crop and animal production, hunting and related service activities=t]: 7118   <conf:(1)> lift:(1.03) lev:(0.02) conv:(9.72) 
+ 5. [Manufacture of other non-metallic mineral products=t]: 7172 ==> [Crop and animal production, hunting and related service activities=t]: 7078   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.06) 
+ 6. [Manufacture of food products=t]: 9806 ==> [Crop and animal production, hunting and related service activities=t]: 9668   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.92) 
+ 7. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 8007 ==> [Crop and animal production, hunting and related service activities=t]: 7890   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.85) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 8368 ==> [Crop and animal production, hunting and related service activities=t]: 8199   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.34) 
+ 9. [Crop and animal production, hunting and related service activities=t, Manufacture of wearing apparel=t]: 7009 ==> [Manufacture of food products=t]: 6827   <conf:(0.97)> lift:(1.13) lev:(0.07) conv:(5.29) 
+10. [Manufacture of wearing apparel=t]: 7011 ==> [Manufacture of food products=t]: 6827   <conf:(0.97)> lift:(1.13) lev:(0.07) conv:(5.23) 
+

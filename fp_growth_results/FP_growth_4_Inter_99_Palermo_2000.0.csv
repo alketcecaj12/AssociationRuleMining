@@ -1,0 +1,13 @@
+FPGrowth found 15 rules (displaying top 10)
+
+ 1. [Manufacture of food products=t]: 10597 ==> [Crop and animal production, hunting and related service activities=t]: 10582   <conf:(1)> lift:(1) lev:(0) conv:(4.02) 
+ 2. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 9556 ==> [Crop and animal production, hunting and related service activities=t]: 9541   <conf:(1)> lift:(1) lev:(0) conv:(3.62) 
+ 3. [Manufacture of food products=t, Manufacture of other non-metallic mineral products=t]: 9157 ==> [Crop and animal production, hunting and related service activities=t]: 9142   <conf:(1)> lift:(1) lev:(0) conv:(3.47) 
+ 4. [Manufacture of other non-metallic mineral products=t]: 9343 ==> [Crop and animal production, hunting and related service activities=t]: 9327   <conf:(1)> lift:(1) lev:(0) conv:(3.33) 
+ 5. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9738 ==> [Crop and animal production, hunting and related service activities=t]: 9689   <conf:(0.99)> lift:(1) lev:(0) conv:(1.18) 
+ 6. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 9689 ==> [Manufacture of food products=t]: 9541   <conf:(0.98)> lift:(1.06) lev:(0.05) conv:(4.46) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9738 ==> [Manufacture of food products=t]: 9556   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.65) 
+ 8. [Crop and animal production, hunting and related service activities=t, Manufacture of other non-metallic mineral products=t]: 9327 ==> [Manufacture of food products=t]: 9142   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.44) 
+ 9. [Manufacture of other non-metallic mineral products=t]: 9343 ==> [Manufacture of food products=t]: 9157   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.43) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t]: 9738 ==> [Crop and animal production, hunting and related service activities=t, Manufacture of food products=t]: 9541   <conf:(0.98)> lift:(1.05) lev:(0.04) conv:(3.44) 
+

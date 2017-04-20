@@ -1,0 +1,13 @@
+FPGrowth found 16 rules (displaying top 10)
+
+ 1. [Manufacture of furniture=t]: 11806 ==> [Crop and animal production, hunting and related service activities=t]: 11216   <conf:(0.95)> lift:(1.04) lev:(0.02) conv:(1.8) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of wearing apparel=t]: 14262 ==> [Crop and animal production, hunting and related service activities=t]: 13338   <conf:(0.94)> lift:(1.03) lev:(0.01) conv:(1.39) 
+ 3. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 13270 ==> [Crop and animal production, hunting and related service activities=t]: 12406   <conf:(0.93)> lift:(1.03) lev:(0.01) conv:(1.38) 
+ 4. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of food products=t]: 13918 ==> [Crop and animal production, hunting and related service activities=t]: 12996   <conf:(0.93)> lift:(1.03) lev:(0.01) conv:(1.36) 
+ 5. [Manufacture of wearing apparel=t, Manufacture of food products=t]: 13395 ==> [Crop and animal production, hunting and related service activities=t]: 12480   <conf:(0.93)> lift:(1.02) lev:(0.01) conv:(1.32) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of electrical equipment=t]: 12090 ==> [Crop and animal production, hunting and related service activities=t]: 11264   <conf:(0.93)> lift:(1.02) lev:(0.01) conv:(1.32) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t]: 18079 ==> [Crop and animal production, hunting and related service activities=t]: 16809   <conf:(0.93)> lift:(1.02) lev:(0.01) conv:(1.28) 
+ 8. [Manufacture of wearing apparel=t]: 17031 ==> [Crop and animal production, hunting and related service activities=t]: 15819   <conf:(0.93)> lift:(1.02) lev:(0.01) conv:(1.27) 
+ 9. [Manufacture of wearing apparel=t, Manufacture of machinery and equipment n.e.c.=t]: 12156 ==> [Crop and animal production, hunting and related service activities=t]: 11273   <conf:(0.93)> lift:(1.02) lev:(0.01) conv:(1.24) 
+10. [Repair and installation of machinery and equipment=t]: 12491 ==> [Crop and animal production, hunting and related service activities=t]: 11516   <conf:(0.92)> lift:(1.01) lev:(0.01) conv:(1.15) 
+

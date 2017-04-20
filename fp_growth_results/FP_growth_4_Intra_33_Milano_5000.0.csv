@@ -1,0 +1,13 @@
+FPGrowth found 4638064 rules (displaying top 10)
+
+ 1. [Manufacture of chemicals and chemical products=t]: 24371 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24371   <conf:(1)> lift:(1) lev:(0) conv:(7.97) 
+ 2. [Manufacture of other non-metallic mineral products=t]: 24322 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24322   <conf:(1)> lift:(1) lev:(0) conv:(7.95) 
+ 3. [Manufacture of basic metals=t]: 24074 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24074   <conf:(1)> lift:(1) lev:(0) conv:(7.87) 
+ 4. [Printing and reproduction of recorded media=t]: 24047 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24047   <conf:(1)> lift:(1) lev:(0) conv:(7.86) 
+ 5. [Manufacture of computer, electronic and optical products=t]: 23958 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 23958   <conf:(1)> lift:(1) lev:(0) conv:(7.83) 
+ 6. [Manufacture of paper and paper products=t]: 23770 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 23770   <conf:(1)> lift:(1) lev:(0) conv:(7.77) 
+ 7. [Manufacture of furniture=t]: 23498 ==> [Manufacture of machinery and equipment n.e.c.=t]: 23498   <conf:(1)> lift:(1) lev:(0) conv:(11.52) 
+ 8. [Manufacture of wood and of products of wood and cork, except furniture=t]: 23520 ==> [Manufacture of food products=t]: 23520   <conf:(1)> lift:(1) lev:(0) conv:(49.01) 
+ 9. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of chemicals and chemical products=t]: 24365 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24365   <conf:(1)> lift:(1) lev:(0) conv:(7.96) 
+10. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of other non-metallic mineral products=t]: 24319 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24319   <conf:(1)> lift:(1) lev:(0) conv:(7.95) 
+

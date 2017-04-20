@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of food products=t]: 7270 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7256   <conf:(1)> lift:(1) lev:(0) conv:(2.74) 
+ 2. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 7243 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7229   <conf:(1)> lift:(1) lev:(0) conv:(2.73) 
+ 3. [Manufacture of machinery and equipment n.e.c.=t]: 7457 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7442   <conf:(1)> lift:(1) lev:(0) conv:(2.64) 
+ 4. [Repair and installation of machinery and equipment=t]: 7293 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7265   <conf:(1)> lift:(1) lev:(0) conv:(1.42) 
+ 5. [Manufacture of rubber and plastic products=t]: 7329 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7296   <conf:(1)> lift:(1) lev:(0) conv:(1.22) 
+ 6. [Manufacture of food products=t]: 7396 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 7361   <conf:(1)> lift:(1) lev:(0) conv:(1.16) 
+ 7. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of rubber and plastic products=t]: 7296 ==> [Manufacture of machinery and equipment n.e.c.=t]: 7229   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.03) 
+ 8. [Manufacture of rubber and plastic products=t]: 7329 ==> [Manufacture of machinery and equipment n.e.c.=t]: 7243   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.6) 
+ 9. [Manufacture of rubber and plastic products=t]: 7329 ==> [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 7229   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.52) 
+10. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of food products=t]: 7361 ==> [Manufacture of machinery and equipment n.e.c.=t]: 7256   <conf:(0.99)> lift:(1) lev:(0) conv:(1.32) 
+

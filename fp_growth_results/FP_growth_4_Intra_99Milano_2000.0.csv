@@ -1,0 +1,13 @@
+FPGrowth found 222514 rules (displaying top 10)
+
+ 1. [Financial service activities, except insurance and pension funding=t, Real estate activities=t]: 93378 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 93378   <conf:(1)> lift:(1) lev:(0) conv:(175.89) 
+ 2. [Financial service activities, except insurance and pension funding=t, Warehousing and support activities for transportation=t]: 92404 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 92404   <conf:(1)> lift:(1) lev:(0) conv:(174.05) 
+ 3. [Postal and courier activities=t, Warehousing and support activities for transportation=t]: 91846 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91846   <conf:(1)> lift:(1) lev:(0) conv:(173) 
+ 4. [Services to buildings and landscape activities=t, Warehousing and support activities for transportation=t]: 91533 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91533   <conf:(1)> lift:(1) lev:(0) conv:(172.41) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t, Real estate activities=t]: 93788 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 93788   <conf:(1)> lift:(1) lev:(0) conv:(176.66) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t, Real estate activities=t]: 93351 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 93351   <conf:(1)> lift:(1) lev:(0) conv:(175.84) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t, Warehousing and support activities for transportation=t]: 92383 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 92383   <conf:(1)> lift:(1) lev:(0) conv:(174.01) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Real estate activities=t, Postal and courier activities=t]: 92732 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 92732   <conf:(1)> lift:(1) lev:(0) conv:(174.67) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t, Warehousing and support activities for transportation=t]: 91800 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91800   <conf:(1)> lift:(1) lev:(0) conv:(172.91) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Services to buildings and landscape activities=t, Warehousing and support activities for transportation=t]: 91516 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91516   <conf:(1)> lift:(1) lev:(0) conv:(172.38) 
+

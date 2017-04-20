@@ -1,0 +1,13 @@
+FPGrowth found 16 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 21744 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 21312   <conf:(0.98)> lift:(1.04) lev:(0.04) conv:(3.06) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 21820 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 21312   <conf:(0.98)> lift:(1.04) lev:(0.03) conv:(2.47) 
+ 3. [Food and beverage service activities=t]: 22445 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 21820   <conf:(0.97)> lift:(1.04) lev:(0.03) conv:(2.19) 
+ 4. [Specialised construction activities=t]: 22237 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 21572   <conf:(0.97)> lift:(1.03) lev:(0.02) conv:(1.93) 
+ 5. [Food and beverage service activities=t]: 22445 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 21744   <conf:(0.97)> lift:(1.03) lev:(0.02) conv:(1.84) 
+ 6. [Specialised construction activities=t]: 22237 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 21448   <conf:(0.96)> lift:(1.03) lev:(0.02) conv:(1.72) 
+ 7. [Retail trade, except of motor vehicles and motorcycles=t]: 23402 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 22512   <conf:(0.96)> lift:(1.02) lev:(0.02) conv:(1.52) 
+ 8. [Wholesale trade, except of motor vehicles and motorcycles=t]: 23484 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 22512   <conf:(0.96)> lift:(1.02) lev:(0.02) conv:(1.47) 
+ 9. [Food and beverage service activities=t]: 22445 ==> [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 21312   <conf:(0.95)> lift:(1.05) lev:(0.04) conv:(1.91) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 22512 ==> [Food and beverage service activities=t]: 21312   <conf:(0.95)> lift:(1.05) lev:(0.04) conv:(1.86) 
+

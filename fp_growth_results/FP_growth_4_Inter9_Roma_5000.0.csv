@@ -1,0 +1,13 @@
+FPGrowth found 620 rules (displaying top 10)
+
+ 1. [Construction of buildings=t, Food and beverage service activities=t]: 5979 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5979   <conf:(1)> lift:(1) lev:(0) conv:(26.55) 
+ 2. [Food and beverage service activities=t, Land transport and transport via pipelines=t]: 5944 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5944   <conf:(1)> lift:(1) lev:(0) conv:(26.39) 
+ 3. [Food and beverage service activities=t, Specialised construction activities=t]: 5938 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5938   <conf:(1)> lift:(1) lev:(0) conv:(26.37) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Food and beverage service activities=t]: 5969 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5969   <conf:(1)> lift:(1) lev:(0) conv:(26.5) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t, Land transport and transport via pipelines=t]: 5938 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5938   <conf:(1)> lift:(1) lev:(0) conv:(26.37) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t, Specialised construction activities=t]: 5928 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5928   <conf:(1)> lift:(1) lev:(0) conv:(26.32) 
+ 7. [Construction of buildings=t, Food and beverage service activities=t, Land transport and transport via pipelines=t]: 5920 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5920   <conf:(1)> lift:(1) lev:(0) conv:(26.29) 
+ 8. [Construction of buildings=t, Food and beverage service activities=t, Specialised construction activities=t]: 5932 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5932   <conf:(1)> lift:(1) lev:(0) conv:(26.34) 
+ 9. [Food and beverage service activities=t, Land transport and transport via pipelines=t, Specialised construction activities=t]: 5885 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5885   <conf:(1)> lift:(1) lev:(0) conv:(26.13) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t, Food and beverage service activities=t, Land transport and transport via pipelines=t]: 5914 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 5914   <conf:(1)> lift:(1) lev:(0) conv:(26.26) 
+

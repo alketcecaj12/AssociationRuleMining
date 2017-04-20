@@ -1,0 +1,13 @@
+FPGrowth found 38 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 2939 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2939   <conf:(1)> lift:(1.01) lev:(0.01) conv:(36.71) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 2939 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2939   <conf:(1)> lift:(1.01) lev:(0.01) conv:(18.36) 
+ 3. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 2906 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2906   <conf:(1)> lift:(1.01) lev:(0.01) conv:(36.3) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 2906 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2906   <conf:(1)> lift:(1.01) lev:(0.01) conv:(18.15) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2904 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2904   <conf:(1)> lift:(1.01) lev:(0.01) conv:(18.14) 
+ 6. [Construction of buildings=t]: 2907 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2906   <conf:(1)> lift:(1.01) lev:(0.01) conv:(9.08) 
+ 7. [Construction of buildings=t]: 2907 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2906   <conf:(1)> lift:(1.01) lev:(0.01) conv:(18.16) 
+ 8. [Construction of buildings=t]: 2907 ==> [Wholesale trade, except of motor vehicles and motorcycles=t, Retail trade, except of motor vehicles and motorcycles=t]: 2906   <conf:(1)> lift:(1.01) lev:(0.01) conv:(19.59) 
+ 9. [Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2906 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2905   <conf:(1)> lift:(1.01) lev:(0.01) conv:(9.08) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t, Wholesale and retail trade and repair of motor vehicles and motorcycles=t]: 2905 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2904   <conf:(1)> lift:(1.01) lev:(0.01) conv:(18.14) 
+

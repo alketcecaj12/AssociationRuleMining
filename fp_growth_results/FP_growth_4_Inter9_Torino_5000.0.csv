@@ -1,0 +1,13 @@
+FPGrowth found 42 rules (displaying top 10)
+
+ 1. [Food and beverage service activities=t]: 2991 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 2981   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.21) 
+ 2. [Financial service activities, except insurance and pension funding=t]: 3000 ==> [Postal and courier activities=t]: 2986   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3) 
+ 3. [Postal and courier activities=t, Specialised construction activities=t]: 3021 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3004   <conf:(0.99)> lift:(1) lev:(0) conv:(1.66) 
+ 4. [Postal and courier activities=t]: 3084 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3063   <conf:(0.99)> lift:(1) lev:(0) conv:(1.39) 
+ 5. [Wholesale trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 3052 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3031   <conf:(0.99)> lift:(1) lev:(0) conv:(1.37) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 3027 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3006   <conf:(0.99)> lift:(1) lev:(0) conv:(1.36) 
+ 7. [Financial service activities, except insurance and pension funding=t]: 3000 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2979   <conf:(0.99)> lift:(1) lev:(0) conv:(1.35) 
+ 8. [Specialised construction activities=t]: 3061 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3036   <conf:(0.99)> lift:(1) lev:(0) conv:(1.17) 
+ 9. [Wholesale trade, except of motor vehicles and motorcycles=t]: 3094 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3067   <conf:(0.99)> lift:(1) lev:(0) conv:(1.09) 
+10. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 3036 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 3006   <conf:(0.99)> lift:(1) lev:(0) conv:(1.16) 
+

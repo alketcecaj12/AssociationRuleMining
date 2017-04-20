@@ -1,0 +1,13 @@
+FPGrowth found 19 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t]: 2786 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2748   <conf:(0.99)> lift:(1.11) lev:(0.07) conv:(8.22) 
+ 2. [Food and beverage service activities=t]: 2716 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2638   <conf:(0.97)> lift:(1.1) lev:(0.06) conv:(3.96) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 2678 ==> [Financial service activities, except insurance and pension funding=t]: 2599   <conf:(0.97)> lift:(1.1) lev:(0.06) conv:(3.88) 
+ 4. [Specialised construction activities=t]: 2834 ==> [Financial service activities, except insurance and pension funding=t]: 2729   <conf:(0.96)> lift:(1.09) lev:(0.06) conv:(3.1) 
+ 5. [Food and beverage service activities=t]: 2716 ==> [Financial service activities, except insurance and pension funding=t]: 2606   <conf:(0.96)> lift:(1.09) lev:(0.05) conv:(2.83) 
+ 6. [Financial service activities, except insurance and pension funding=t, Specialised construction activities=t]: 2729 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2599   <conf:(0.95)> lift:(1.08) lev:(0.05) conv:(2.4) 
+ 7. [Financial service activities, except insurance and pension funding=t, Construction of buildings=t]: 2746 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2609   <conf:(0.95)> lift:(1.07) lev:(0.05) conv:(2.29) 
+ 8. [Specialised construction activities=t]: 2834 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2678   <conf:(0.94)> lift:(1.07) lev:(0.04) conv:(2.08) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 2963 ==> [Financial service activities, except insurance and pension funding=t]: 2799   <conf:(0.94)> lift:(1.07) lev:(0.05) conv:(2.08) 
+10. [Construction of buildings=t]: 2970 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2798   <conf:(0.94)> lift:(1.06) lev:(0.04) conv:(1.98) 
+

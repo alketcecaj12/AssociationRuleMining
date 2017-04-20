@@ -1,0 +1,13 @@
+FPGrowth found 79 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 995 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 993   <conf:(1)> lift:(1.05) lev:(0.04) conv:(15.63) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 993 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 991   <conf:(1)> lift:(1.05) lev:(0.04) conv:(15.6) 
+ 3. [Food and beverage service activities=t, Specialised construction activities=t]: 983 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 981   <conf:(1)> lift:(1.05) lev:(0.04) conv:(15.44) 
+ 4. [Food and beverage service activities=t, Construction of buildings=t]: 988 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 985   <conf:(1)> lift:(1.05) lev:(0.04) conv:(11.64) 
+ 5. [Construction of buildings=t]: 1016 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1011   <conf:(1)> lift:(1.04) lev:(0.04) conv:(7.98) 
+ 6. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 1029 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1023   <conf:(0.99)> lift:(1.04) lev:(0.04) conv:(6.93) 
+ 7. [Food and beverage service activities=t, Specialised construction activities=t]: 983 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 975   <conf:(0.99)> lift:(1.06) lev:(0.05) conv:(7.24) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 1002 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 991   <conf:(0.99)> lift:(1.06) lev:(0.05) conv:(5.54) 
+ 9. [Crop and animal production, hunting and related service activities=t, Food and beverage service activities=t]: 1001 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 990   <conf:(0.99)> lift:(1.04) lev:(0.03) conv:(3.93) 
+10. [Food and beverage service activities=t]: 1054 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 1041   <conf:(0.99)> lift:(1.04) lev:(0.03) conv:(3.55) 
+

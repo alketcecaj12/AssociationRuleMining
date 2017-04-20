@@ -1,0 +1,13 @@
+FPGrowth found 16 rules (displaying top 10)
+
+ 1. [Financial service activities, except insurance and pension funding=t, Wholesale trade, except of motor vehicles and motorcycles=t]: 2267 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2266   <conf:(1)> lift:(1.21) lev:(0.1) conv:(198.33) 
+ 2. [Wholesale trade, except of motor vehicles and motorcycles=t]: 2608 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2548   <conf:(0.98)> lift:(1.18) lev:(0.1) conv:(7.48) 
+ 3. [Financial service activities, except insurance and pension funding=t, Food and beverage service activities=t]: 2317 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2241   <conf:(0.97)> lift:(1.17) lev:(0.08) conv:(5.26) 
+ 4. [Construction of buildings=t, Specialised construction activities=t]: 2331 ==> [Financial service activities, except insurance and pension funding=t]: 2245   <conf:(0.96)> lift:(1.18) lev:(0.09) conv:(4.97) 
+ 5. [Food and beverage service activities=t]: 2521 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 2409   <conf:(0.96)> lift:(1.16) lev:(0.08) conv:(3.9) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 2349 ==> [Financial service activities, except insurance and pension funding=t]: 2212   <conf:(0.94)> lift:(1.16) lev:(0.08) conv:(3.15) 
+ 7. [Specialised construction activities=t]: 2615 ==> [Financial service activities, except insurance and pension funding=t]: 2450   <conf:(0.94)> lift:(1.15) lev:(0.08) conv:(2.92) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 2409 ==> [Financial service activities, except insurance and pension funding=t]: 2241   <conf:(0.93)> lift:(1.14) lev:(0.07) conv:(2.64) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 2599 ==> [Financial service activities, except insurance and pension funding=t]: 2401   <conf:(0.92)> lift:(1.13) lev:(0.07) conv:(2.42) 
+10. [Food and beverage service activities=t]: 2521 ==> [Financial service activities, except insurance and pension funding=t]: 2317   <conf:(0.92)> lift:(1.13) lev:(0.07) conv:(2.28) 
+

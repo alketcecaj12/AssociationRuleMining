@@ -1,0 +1,13 @@
+FPGrowth found 14 rules (displaying top 10)
+
+ 1. [Manufacture of machinery and equipment n.e.c.=t, Manufacture of rubber and plastic products=t]: 23411 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 23350   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.09) 
+ 2. [Manufacture of rubber and plastic products=t]: 23503 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 23430   <conf:(1)> lift:(1.01) lev:(0) conv:(2.6) 
+ 3. [Manufacture of electrical equipment=t]: 23345 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 23267   <conf:(1)> lift:(1) lev:(0) conv:(2.41) 
+ 4. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of rubber and plastic products=t]: 23430 ==> [Manufacture of machinery and equipment n.e.c.=t]: 23350   <conf:(1)> lift:(1.01) lev:(0.01) conv:(3.31) 
+ 5. [Manufacture of rubber and plastic products=t]: 23503 ==> [Manufacture of machinery and equipment n.e.c.=t]: 23411   <conf:(1)> lift:(1.01) lev:(0.01) conv:(2.89) 
+ 6. [Manufacture of machinery and equipment n.e.c.=t]: 24193 ==> [Manufacture of fabricated metal products, except machinery and equipment=t]: 24064   <conf:(0.99)> lift:(1) lev:(0) conv:(1.52) 
+ 7. [Manufacture of rubber and plastic products=t]: 23503 ==> [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 23350   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.55) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 24273 ==> [Manufacture of machinery and equipment n.e.c.=t]: 24064   <conf:(0.99)> lift:(1) lev:(0) conv:(1.32) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t, Manufacture of machinery and equipment n.e.c.=t]: 24064 ==> [Manufacture of rubber and plastic products=t]: 23350   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.33) 
+10. [Manufacture of machinery and equipment n.e.c.=t]: 24193 ==> [Manufacture of rubber and plastic products=t]: 23411   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.22) 
+

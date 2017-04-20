@@ -1,0 +1,13 @@
+FPGrowth found 32 rules (displaying top 10)
+
+ 1. [Retail trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 92165 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91991   <conf:(1)> lift:(1.01) lev:(0) conv:(3.71) 
+ 2. [Specialised construction activities=t, Food and beverage service activities=t]: 90980 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 90806   <conf:(1)> lift:(1.01) lev:(0) conv:(3.66) 
+ 3. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 91634 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 91453   <conf:(1)> lift:(1.01) lev:(0) conv:(3.55) 
+ 4. [Construction of buildings=t]: 91121 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 90865   <conf:(1)> lift:(1) lev:(0) conv:(2.5) 
+ 5. [Specialised construction activities=t]: 93283 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 92983   <conf:(1)> lift:(1) lev:(0) conv:(2.18) 
+ 6. [Retail trade, except of motor vehicles and motorcycles=t]: 93777 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 93464   <conf:(1)> lift:(1) lev:(0) conv:(2.1) 
+ 7. [Food and beverage service activities=t]: 92515 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 92202   <conf:(1)> lift:(1) lev:(0) conv:(2.07) 
+ 8. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 92202 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 91453   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.3) 
+ 9. [Food and beverage service activities=t]: 92515 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 91634   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.96) 
+10. [Wholesale trade, except of motor vehicles and motorcycles=t, Specialised construction activities=t]: 92983 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 91991   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.75) 
+

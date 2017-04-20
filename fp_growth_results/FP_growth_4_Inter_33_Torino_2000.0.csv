@@ -1,0 +1,13 @@
+FPGrowth found 10 rules (displaying top 10)
+
+ 1. [Specialised construction activities=t]: 7338 ==> [Crop and animal production, hunting and related service activities=t]: 7291   <conf:(0.99)> lift:(1) lev:(0) conv:(1.07) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t]: 7335 ==> [Crop and animal production, hunting and related service activities=t]: 7285   <conf:(0.99)> lift:(1) lev:(0) conv:(1) 
+ 3. [Wholesale trade, except of motor vehicles and motorcycles=t]: 7436 ==> [Crop and animal production, hunting and related service activities=t]: 7385   <conf:(0.99)> lift:(1) lev:(0) conv:(1) 
+ 4. [Retail trade, except of motor vehicles and motorcycles=t]: 7335 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 7255   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.97) 
+ 5. [Specialised construction activities=t]: 7338 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 7247   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.73) 
+ 6. [Crop and animal production, hunting and related service activities=t]: 7548 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 7385   <conf:(0.98)> lift:(1) lev:(0) conv:(1) 
+ 7. [Wholesale trade, except of motor vehicles and motorcycles=t]: 7436 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7255   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.43) 
+ 8. [Wholesale trade, except of motor vehicles and motorcycles=t]: 7436 ==> [Specialised construction activities=t]: 7247   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.35) 
+ 9. [Crop and animal production, hunting and related service activities=t]: 7548 ==> [Specialised construction activities=t]: 7291   <conf:(0.97)> lift:(1) lev:(0) conv:(1.01) 
+10. [Crop and animal production, hunting and related service activities=t]: 7548 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 7285   <conf:(0.97)> lift:(1) lev:(0) conv:(1) 
+

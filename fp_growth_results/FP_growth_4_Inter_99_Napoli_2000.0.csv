@@ -1,0 +1,13 @@
+FPGrowth found 24 rules (displaying top 10)
+
+ 1. [Manufacture of wearing apparel=t]: 53644 ==> [Crop and animal production, hunting and related service activities=t]: 53504   <conf:(1)> lift:(1) lev:(0) conv:(1.21) 
+ 2. [Manufacture of fabricated metal products, except machinery and equipment=t]: 53111 ==> [Crop and animal production, hunting and related service activities=t]: 52972   <conf:(1)> lift:(1) lev:(0) conv:(1.2) 
+ 3. [Manufacture of food products=t]: 53650 ==> [Crop and animal production, hunting and related service activities=t]: 53509   <conf:(1)> lift:(1) lev:(0) conv:(1.2) 
+ 4. [Manufacture of food products=t, Manufacture of wearing apparel=t]: 52728 ==> [Crop and animal production, hunting and related service activities=t]: 52589   <conf:(1)> lift:(1) lev:(0) conv:(1.19) 
+ 5. [Manufacture of food products=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 52458 ==> [Crop and animal production, hunting and related service activities=t]: 52319   <conf:(1)> lift:(1) lev:(0) conv:(1.19) 
+ 6. [Manufacture of fabricated metal products, except machinery and equipment=t]: 53111 ==> [Manufacture of food products=t]: 52458   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.9) 
+ 7. [Crop and animal production, hunting and related service activities=t, Manufacture of fabricated metal products, except machinery and equipment=t]: 52972 ==> [Manufacture of food products=t]: 52319   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.9) 
+ 8. [Manufacture of fabricated metal products, except machinery and equipment=t]: 53111 ==> [Crop and animal production, hunting and related service activities=t, Manufacture of food products=t]: 52319   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(1.74) 
+ 9. [Manufacture of fabricated metal products, except machinery and equipment=t]: 53111 ==> [Manufacture of wearing apparel=t]: 52208   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.38) 
+10. [Manufacture of wearing apparel=t]: 53644 ==> [Manufacture of food products=t]: 52728   <conf:(0.98)> lift:(1.01) lev:(0.01) conv:(1.37) 
+

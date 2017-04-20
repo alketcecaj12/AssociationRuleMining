@@ -1,0 +1,13 @@
+FPGrowth found 32 rules (displaying top 10)
+
+ 1. [Wholesale trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 10378 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10337   <conf:(1)> lift:(1.02) lev:(0.02) conv:(5.36) 
+ 2. [Food and beverage service activities=t, Construction of buildings=t]: 10297 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10249   <conf:(1)> lift:(1.02) lev:(0.02) conv:(4.56) 
+ 3. [Wholesale trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 10598 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10542   <conf:(0.99)> lift:(1.02) lev:(0.02) conv:(4.04) 
+ 4. [Wholesale trade, except of motor vehicles and motorcycles=t]: 10898 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10812   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.72) 
+ 5. [Specialised construction activities=t]: 10380 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10294   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.59) 
+ 6. [Food and beverage service activities=t]: 10752 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10660   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.51) 
+ 7. [Construction of buildings=t]: 10583 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 10487   <conf:(0.99)> lift:(1.01) lev:(0.01) conv:(2.37) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Food and beverage service activities=t]: 10660 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 10542   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(3.77) 
+ 9. [Retail trade, except of motor vehicles and motorcycles=t, Construction of buildings=t]: 10487 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 10337   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(2.92) 
+10. [Food and beverage service activities=t]: 10752 ==> [Wholesale trade, except of motor vehicles and motorcycles=t]: 10598   <conf:(0.99)> lift:(1.03) lev:(0.03) conv:(2.92) 
+

@@ -1,0 +1,13 @@
+FPGrowth found 10 rules (displaying top 10)
+
+ 1. [Financial service activities, except insurance and pension funding=t]: 3769 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3641   <conf:(0.97)> lift:(1.01) lev:(0.01) conv:(1.23) 
+ 2. [Retail trade, except of motor vehicles and motorcycles=t, Postal and courier activities=t]: 3503 ==> [Financial service activities, except insurance and pension funding=t]: 3380   <conf:(0.96)> lift:(1.01) lev:(0.01) conv:(1.33) 
+ 3. [Financial service activities, except insurance and pension funding=t, Postal and courier activities=t]: 3508 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3380   <conf:(0.96)> lift:(1.01) lev:(0) conv:(1.14) 
+ 4. [Postal and courier activities=t]: 3650 ==> [Financial service activities, except insurance and pension funding=t]: 3508   <conf:(0.96)> lift:(1.01) lev:(0.01) conv:(1.2) 
+ 5. [Retail trade, except of motor vehicles and motorcycles=t]: 3789 ==> [Financial service activities, except insurance and pension funding=t]: 3641   <conf:(0.96)> lift:(1.01) lev:(0.01) conv:(1.2) 
+ 6. [Postal and courier activities=t]: 3650 ==> [Retail trade, except of motor vehicles and motorcycles=t]: 3503   <conf:(0.96)> lift:(1) lev:(0) conv:(1.04) 
+ 7. [Financial service activities, except insurance and pension funding=t]: 3769 ==> [Postal and courier activities=t]: 3508   <conf:(0.93)> lift:(1.01) lev:(0.01) conv:(1.11) 
+ 8. [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 3641 ==> [Postal and courier activities=t]: 3380   <conf:(0.93)> lift:(1.01) lev:(0.01) conv:(1.07) 
+ 9. [Postal and courier activities=t]: 3650 ==> [Retail trade, except of motor vehicles and motorcycles=t, Financial service activities, except insurance and pension funding=t]: 3380   <conf:(0.93)> lift:(1.01) lev:(0.01) conv:(1.07) 
+10. [Retail trade, except of motor vehicles and motorcycles=t]: 3789 ==> [Postal and courier activities=t]: 3503   <conf:(0.92)> lift:(1) lev:(0) conv:(1.02) 
+
